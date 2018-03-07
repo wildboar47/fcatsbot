@@ -1,0 +1,1466 @@
+2016-09-06 15:06:54.2786;1;;Trace;USERS COUNT=36;
+2016-09-06 15:06:58.9882;9;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-06 15:06:58.9882;9;;Trace;USER WITH ID 2148665 will be now Registered;
+2016-09-06 15:06:59.0142;9;;Trace;User Username @AlexeevS Registered!;
+2016-09-06 15:06:59.5539;9;;Trace;FROM;2148665;NAME;AlexeevS;TEXT; /start start;
+2016-09-06 15:07:00.2232;9;;Trace;FROM;2148665;NAME;AlexeevS;TEXT; /start;
+2016-09-06 15:07:00.3542;9;;Trace;FROM;2148665;NAME;AlexeevS;TEXT; kitty;
+2016-09-06 15:07:00.3622;11;;Trace;USER WITH ID 123717725 will be now Registered;
+2016-09-06 15:07:00.3622;9;;Trace;FROM;123717725;NAME;Dilnozbegim;TEXT; /changelanguage_ru;
+2016-09-06 15:07:00.3622;11;;Trace;User Username @Dilnozbegim Registered!;
+2016-09-06 15:07:00.3622;8;;Trace;FILE incoming PhotoMessage id =AgADAgADn7IxG6htiANhMXZspKn7uPUJcQ0ABGkimC6LlCjWbL8BAAEC size=25606 mb=0;
+2016-09-06 15:07:00.3622;11;;Trace;FILE incoming PhotoMessage id =AgADAgAD_agxG13IXwdeNVM1pLLfe6rLgQ0ABUXavEntY3l0SAACAg size=12420 mb=0;
+2016-09-06 15:07:00.3622;12;;Trace;FROM;123717725;NAME;Dilnozbegim;TEXT; /help;
+2016-09-06 15:07:00.3622;5;;Trace;FILE incoming PhotoMessage id =AgADAgADiq0xGznJIAABai3om7cnLGimHnENAARDFU_bIEqXYb25AQABAg size=26086 mb=0;
+2016-09-06 15:07:00.3622;4;;Trace;FILE incoming PhotoMessage id =AgADAgADoLIxG6htiANbYOsuTbUDs2PlgQ0ABJ2-KAABMtwyRxhIAAIC size=25814 mb=0;
+2016-09-06 15:07:00.4461;6;;Trace;FROM;123717725;NAME;Dilnozbegim;TEXT; /start;
+2016-09-06 15:07:00.4461;11;;Trace;FILE incoming PhotoMessage id =AgADAgADobIxG6htiANYiJPOj9la2SE1cQ0ABFRBouJ3TqG5r7kBAAEC size=26810 mb=0;
+2016-09-06 15:07:00.6811;9;;Trace;FROM;59272616;NAME;A_Yaranov;TEXT; /start;
+2016-09-06 15:07:00.7526;9;;Trace;FROM;59272616;NAME;A_Yaranov;TEXT; /help;
+2016-09-06 15:07:00.7870;9;;Trace;Received Photo: FilePath photo/file_260.jpg; caption=photo/file_260.jpg; id=AgADAgAD_agxG13IXwdeNVM1pLLfe6rLgQ0ABUXavEntY3l0SAACAg; chatId=photo/file_260.jpg; MessageId=123717725;;
+2016-09-06 15:07:00.7870;12;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 297;
+2016-09-06 15:07:00.7416;11;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 326;
+2016-09-06 15:07:00.7870;12;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 297;
+2016-09-06 15:07:00.7870;11;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 326;
+2016-09-06 15:07:00.7416;8;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 267;
+2016-09-06 15:07:00.8000;8;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 267;
+2016-09-06 15:07:00.8330;5;;Trace;Received Photo: FilePath photo/file_259.jpg; caption=photo/file_259.jpg; id=AgADAgADn7IxG6htiANhMXZspKn7uPUJcQ0ABGkimC6LlCjWbL8BAAEC; chatId=photo/file_259.jpg; MessageId=59272616;;
+2016-09-06 15:07:00.8330;11;;Trace;Received Photo: FilePath photo/file_261.jpg; caption=photo/file_261.jpg; id=AgADAgADiq0xGznJIAABai3om7cnLGimHnENAARDFU_bIEqXYb25AQABAg; chatId=photo/file_261.jpg; MessageId=2148665;;
+2016-09-06 15:07:00.8580;9;;Trace;Received Photo: FilePath photo/file_258.jpg; caption=photo/file_258.jpg; id=AgADAgADoLIxG6htiANbYOsuTbUDs2PlgQ0ABJ2-KAABMtwyRxhIAAIC; chatId=photo/file_258.jpg; MessageId=59272616;;
+2016-09-06 15:07:00.8620;12;;Trace;Received Photo: FilePath photo/file_262.jpg; caption=photo/file_262.jpg; id=AgADAgADobIxG6htiANYiJPOj9la2SE1cQ0ABFRBouJ3TqG5r7kBAAEC; chatId=photo/file_262.jpg; MessageId=59272616;;
+2016-09-06 15:07:00.8980;12;;Trace;FILE incoming PhotoMessage id =AgADAgADrccxG37W_ANbbZzLqeuHdbg4cQ0ABA97NBoBErReu7kBAAEC size=51875 mb=0;
+2016-09-06 15:07:00.8980;12;;Trace;USER WITH ID 23623559 will be now Registered;
+2016-09-06 15:07:00.8980;12;;Trace;User Username @Bonch Registered!;
+2016-09-06 15:07:00.9090;12;;Trace;FROM;23623559;NAME;Bonch;TEXT; /start;
+2016-09-06 15:07:00.9090;12;;Trace;FROM;23623559;NAME;Bonch;TEXT; /catapi;
+2016-09-06 15:07:01.0450;12;;Trace;FROM;23623559;NAME;Bonch;TEXT; /instructions;
+2016-09-06 15:07:01.0773;9;;Trace;FILE PhotoMessage PROCESSED id =AgADAgADoLIxG6htiANbYOsuTbUDs2PlgQ0ABJ2-KAABMtwyRxhIAAIC;
+2016-09-06 15:07:01.0820;12;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 535;
+2016-09-06 15:07:01.0820;12;;Trace;FILE PhotoMessage PROCESSED id =AgADAgADiq0xGznJIAABai3om7cnLGimHnENAARDFU_bIEqXYb25AQABAg;
+2016-09-06 15:07:01.0960;11;;Trace;USER WITH ID 221832802 will be now Registered;
+2016-09-06 15:07:01.0960;12;;Trace;FILE PhotoMessage PROCESSED id =AgADAgADn7IxG6htiANhMXZspKn7uPUJcQ0ABGkimC6LlCjWbL8BAAEC;
+2016-09-06 15:07:01.0960;11;;Trace;User Username @ Registered!;
+2016-09-06 15:07:01.0960;11;;Trace;FROM;221832802;NAME;;TEXT; /start;
+2016-09-06 15:07:01.1120;12;;Trace;FILE PhotoMessage PROCESSED id =AgADAgADobIxG6htiANYiJPOj9la2SE1cQ0ABFRBouJ3TqG5r7kBAAEC;
+2016-09-06 15:07:01.2814;11;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 552;
+2016-09-06 15:07:01.2824;11;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 552;
+2016-09-06 15:07:01.3725;9;;Trace;Received Photo: FilePath photo/file_263.jpg; caption=photo/file_263.jpg; id=AgADAgADrccxG37W_ANbbZzLqeuHdbg4cQ0ABA97NBoBErReu7kBAAEC; chatId=photo/file_263.jpg; MessageId=66901630;;
+2016-09-06 15:07:01.3725;11;;Trace;FROM;221832802;NAME;;TEXT; /start;
+2016-09-06 15:07:01.3965;12;;Trace;USER WITH ID 130977446 will be now Registered;
+2016-09-06 15:07:01.3965;12;;Trace;User Username @simongforce Registered!;
+2016-09-06 15:07:01.3965;12;;Trace;FROM;130977446;NAME;simongforce;TEXT; /start;
+2016-09-06 15:07:01.4725;13;;Trace;FILE url=https://api.telegram.org/file/bot232067264:AAGD1hmlGAKFry3awke7ybyGPhHVOJvK1-g/photo/file_258.jpg;
+2016-09-06 15:07:01.4725;13;;Trace;FILE url=https://api.telegram.org/file/bot232067264:AAGD1hmlGAKFry3awke7ybyGPhHVOJvK1-g/photo/file_261.jpg;
+2016-09-06 15:07:01.4725;12;;Trace;FROM;130977446;NAME;simongforce;TEXT; /catapi;
+2016-09-06 15:07:01.4955;12;;Trace;FILE url=https://api.telegram.org/file/bot232067264:AAGD1hmlGAKFry3awke7ybyGPhHVOJvK1-g/photo/file_262.jpg;
+2016-09-06 15:07:01.5075;13;;Trace;FILE url=https://api.telegram.org/file/bot232067264:AAGD1hmlGAKFry3awke7ybyGPhHVOJvK1-g/photo/file_259.jpg;
+2016-09-06 15:07:01.5944;12;;Trace;FILE PhotoMessage PROCESSED id =AgADAgADrccxG37W_ANbbZzLqeuHdbg4cQ0ABA97NBoBErReu7kBAAEC;
+2016-09-06 15:07:01.6324;13;;Trace;FROM;221832802;NAME;;TEXT; /start;
+2016-09-06 15:07:02.1685;9;;Trace;FILE url=https://api.telegram.org/file/bot232067264:AAGD1hmlGAKFry3awke7ybyGPhHVOJvK1-g/photo/file_263.jpg;
+2016-09-06 15:07:02.5097;14;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_m0tz55CHlg1qakzxho1_500.jpg;
+2016-09-06 15:07:02.5097;14;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_m0tz55CHlg1qakzxho1_500.jpg;
+2016-09-06 15:07:02.5097;14;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_m0tz55CHlg1qakzxho1_500.jpg;
+2016-09-06 15:07:02.9127;14;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_lq3phbyLDz1qzyqubo1_1280.jpg;
+2016-09-06 15:07:02.9127;14;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_lq3phbyLDz1qzyqubo1_1280.jpg;
+2016-09-06 15:07:02.9127;14;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_lq3phbyLDz1qzyqubo1_1280.jpg;
+2016-09-06 15:07:03.3738;13;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 0.99997; mammal(type /animals/mammal) - 0.996665; cat(type /animals/pets/cat) - 0.880797; ;
+2016-09-06 15:07:03.3738;9;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 1; mammal(type /animals/mammal) - 0.999999; cat(type /animals/pets/cat) - 0.999547; kitten(type /animals/pets/kitten) - 0.622459; gato(type ) - 0.5; ;
+2016-09-06 15:07:03.3738;12;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 1; mammal(type /animals/mammal) - 1; cat(type /animals/pets/cat) - 0.998993; kitten(type /animals/pets/kitten) - 0.524979; gato(type ) - 0.5; ;
+2016-09-06 15:07:03.4498;14;;Trace;WATSON picturesCurrentDay;3; JSON;;
+2016-09-06 15:07:03.7905;14;;Trace;FROM;130977446;NAME;simongforce;TEXT; /start;
+2016-09-06 15:07:03.7905;9;;Trace;FROM;130977446;NAME;simongforce;TEXT; /changelanguage_ru;
+2016-09-06 15:07:03.7905;12;;Trace;USER WITH ID 88185635 will be now Registered;
+2016-09-06 15:07:03.7905;12;;Trace;User Username @domchi Registered!;
+2016-09-06 15:07:03.7905;13;;Trace;FROM;130977446;NAME;simongforce;TEXT; /instructions;
+2016-09-06 15:07:03.7905;12;;Trace;FROM;88185635;NAME;domchi;TEXT; /start;
+2016-09-06 15:07:03.8095;11;;Trace;FROM;88185635;NAME;domchi;TEXT; /catapi;
+2016-09-06 15:07:03.8195;8;;Trace;FROM;88185635;NAME;domchi;TEXT; /help;
+2016-09-06 15:07:04.3470;11;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_mb1yphntaY1r2tht0o1_500.jpg;
+2016-09-06 15:07:04.3470;11;;Trace;URL catapi to Process=http://24.media.tumblr.com/tumblr_mb1yphntaY1r2tht0o1_500.jpg;
+2016-09-06 15:07:04.3470;11;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_mb1yphntaY1r2tht0o1_500.jpg;
+2016-09-06 15:07:04.5961;11;;Trace;WATSON picturesCurrentDay;4; JSON;baby(type /people/children/baby) - 0.768525; ;
+2016-09-06 15:07:05.4331;8;;Trace;WATSON picturesCurrentDay;4; JSON;animal(type /animals) - 0.999991; mammal(type /animals/mammal) - 0.999983; cat(type /animals/pets/cat) - 0.960834; ;
+2016-09-06 15:07:06.2868;11;;Trace;Mess to Moderator sent; url=http://25.media.tumblr.com/tumblr_lq3phbyLDz1qzyqubo1_1280.jpg;
+2016-09-06 15:07:11.0180;8;;Trace;WATSON picturesCurrentDay;5; JSON;animal(type /animals) - 1; mammal(type /animals/mammal) - 1; cat(type /animals/pets/cat) - 0.999389; kitten(type /animals/pets/kitten) - 0.549834; gato(type ) - 0.5; ;
+2016-09-06 15:07:11.0480;11;;Trace;WATSON picturesCurrentDay;6; JSON;animal(type /animals) - 0.99959; mammal(type /animals/mammal) - 0.998641; cat(type /animals/pets/cat) - 0.802184; dog(type /animals/pets/dog) - 0.622459; ;
+2016-09-06 15:07:11.3469;13;;Trace;USER WITH ID 61407387 will be now Registered;
+2016-09-06 15:07:11.3469;13;;Trace;User Username @cauebs Registered!;
+2016-09-06 15:07:11.3469;9;;Trace;USER WITH ID 191814272 will be now Registered;
+2016-09-06 15:07:11.3469;9;;Trace;User Username @makrist Registered!;
+2016-09-06 15:07:11.3469;8;;Trace;FROM;191814272;NAME;makrist;TEXT; /vote;
+2016-09-06 15:07:11.3469;13;;Trace;FROM;61407387;NAME;cauebs;TEXT; /catapi;
+2016-09-06 15:07:11.3469;9;;Trace;FROM;191814272;NAME;makrist;TEXT; /start;
+2016-09-06 15:07:11.3469;16;;Trace;FROM;61407387;NAME;cauebs;TEXT; /start;
+2016-09-06 15:07:11.3469;14;;Trace;FROM;191814272;NAME;makrist;TEXT; /instructions;
+2016-09-06 15:07:11.3679;11;;Trace;FROM;191814272;NAME;makrist;TEXT; /start;
+2016-09-06 15:07:11.3679;15;;Trace;FROM;191814272;NAME;makrist;TEXT; /catapi;
+2016-09-06 15:07:11.3679;12;;Trace;FROM;191814272;NAME;makrist;TEXT; /vote;
+2016-09-06 15:07:11.3799;15;;Trace;FROM;191814272;NAME;makrist;TEXT; /catapi;
+2016-09-06 15:07:11.4529;14;;Trace;Mess to Moderator sent; url=http://24.media.tumblr.com/tumblr_mb1yphntaY1r2tht0o1_500.jpg;
+2016-09-06 15:07:11.6459;14;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 347;
+2016-09-06 15:07:11.6459;14;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 347;
+2016-09-06 15:07:11.6709;8;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 267;
+2016-09-06 15:07:11.6709;8;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 267;
+2016-09-06 15:07:11.6889;12;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<ProcessVoteCat>d__8.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 701
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 332;
+2016-09-06 15:07:11.6889;12;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<ProcessVoteCat>d__8.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 701
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 332;
+2016-09-06 15:07:11.6889;8;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 267;
+2016-09-06 15:07:11.6889;8;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 267;
+2016-09-06 15:07:11.6889;11;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<ProcessVoteCat>d__8.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 701
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 332;
+2016-09-06 15:07:11.6889;11;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<ProcessVoteCat>d__8.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 701
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 332;
+2016-09-06 15:07:11.7189;14;;Trace;FROM;61407387;NAME;cauebs;TEXT; /vote;
+2016-09-06 15:07:11.7659;12;;Trace;FROM;61407387;NAME;cauebs;TEXT; /changelanguage_en;
+2016-09-06 15:07:11.7809;11;;Trace;FROM;191814272;NAME;makrist;TEXT; /start;
+2016-09-06 15:07:11.7999;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; ololo;
+2016-09-06 15:07:11.7999;8;;Trace;FROM;191814272;NAME;makrist;TEXT; /help;
+2016-09-06 15:07:11.8143;13;;Trace;USER WITH ID 190409129 will be now Registered;
+2016-09-06 15:07:11.8143;13;;Trace;User Username @bog_kartochki Registered!;
+2016-09-06 15:07:11.8143;16;;Trace;FROM;190409129;NAME;bog_kartochki;TEXT; /start;
+2016-09-06 15:07:11.8143;13;;Trace;FROM;190409129;NAME;bog_kartochki;TEXT; /vote;
+2016-09-06 15:07:11.9916;16;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 267;
+2016-09-06 15:07:11.9916;16;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 267;
+2016-09-06 15:07:12.0236;16;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 326;
+2016-09-06 15:07:12.0236;16;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 326;
+2016-09-06 15:07:12.0994;13;;Trace;USER WITH ID 248663734 will be now Registered;
+2016-09-06 15:07:12.0994;13;;Trace;User Username @peeern Registered!;
+2016-09-06 15:07:12.0994;15;;Trace;FILE incoming PhotoMessage id =AgADAgAD4acxG3CiugpdGz2Yghfkp13bgQ0ABBp7UffccThYFDcAAgI size=10745 mb=0;
+2016-09-06 15:07:12.0994;13;;Trace;FROM;248663734;NAME;peeern;TEXT; /changelanguage_en;
+2016-09-06 15:07:12.0994;16;;Trace;FROM;248663734;NAME;peeern;TEXT; /start;
+2016-09-06 15:07:12.1224;8;;Trace;FROM;248663734;NAME;peeern;TEXT; /catapi;
+2016-09-06 15:07:12.1326;11;;Trace;FROM;248663734;NAME;peeern;TEXT; /instructions;
+2016-09-06 15:07:12.1781;13;;Trace;USER WITH ID 215713298 will be now Registered;
+2016-09-06 15:07:12.1781;13;;Trace;User Username @zhulikoff Registered!;
+2016-09-06 15:07:12.1781;13;;Trace;FROM;215713298;NAME;zhulikoff;TEXT; /start;
+2016-09-06 15:07:12.4989;13;;Trace;Received Photo: FilePath photo/file_264.jpg; caption=photo/file_264.jpg; id=AgADAgAD4acxG3CiugpdGz2Yghfkp13bgQ0ABBp7UffccThYFDcAAgI; chatId=photo/file_264.jpg; MessageId=180003440;;
+2016-09-06 15:07:12.5802;15;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_m4ce7h21Qp1qcxyrro1_1280.jpg;
+2016-09-06 15:07:12.5802;15;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_m4ce7h21Qp1qcxyrro1_1280.jpg;
+2016-09-06 15:07:12.5802;15;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_m4ce7h21Qp1qcxyrro1_1280.jpg;
+2016-09-06 15:07:12.6320;15;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_m3hjk89fTB1qe8ox0o1_250.jpg;
+2016-09-06 15:07:12.6320;15;;Trace;URL catapi to Process=http://24.media.tumblr.com/tumblr_m3hjk89fTB1qe8ox0o1_250.jpg;
+2016-09-06 15:07:12.6320;15;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_m3hjk89fTB1qe8ox0o1_250.jpg;
+2016-09-06 15:07:12.7079;11;;Trace;CATSAPI url=http://28.media.tumblr.com/tumblr_lyb78mCojl1r189uao1_500.jpg;
+2016-09-06 15:07:12.7079;11;;Trace;URL catapi to Process=http://28.media.tumblr.com/tumblr_lyb78mCojl1r189uao1_500.jpg;
+2016-09-06 15:07:12.7079;11;;Trace;INCOMING url=http://28.media.tumblr.com/tumblr_lyb78mCojl1r189uao1_500.jpg;
+2016-09-06 15:07:12.7408;15;;Trace;FILE PhotoMessage PROCESSED id =AgADAgAD4acxG3CiugpdGz2Yghfkp13bgQ0ABBp7UffccThYFDcAAgI;
+2016-09-06 15:07:12.8646;11;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_m3borpVfsJ1r73wdao1_500.jpg;
+2016-09-06 15:07:12.8646;11;;Trace;URL catapi to Process=http://24.media.tumblr.com/tumblr_m3borpVfsJ1r73wdao1_500.jpg;
+2016-09-06 15:07:12.8646;11;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_m3borpVfsJ1r73wdao1_500.jpg;
+2016-09-06 15:07:13.0953;11;;Trace;FILE url=https://api.telegram.org/file/bot232067264:AAGD1hmlGAKFry3awke7ybyGPhHVOJvK1-g/photo/file_264.jpg;
+2016-09-06 15:07:13.3165;11;;Trace;WATSON picturesCurrentDay;7; JSON;animal(type /animals) - 0.999939; mammal(type /animals/mammal) - 0.999899; cat(type /animals/pets/cat) - 0.983697; ;
+2016-09-06 15:07:13.4245;15;;Trace;WATSON picturesCurrentDay;7; JSON;animal(type /animals) - 0.999999; mammal(type /animals/mammal) - 0.999998; cat(type /animals/pets/cat) - 0.947846; ;
+2016-09-06 15:07:13.9709;13;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WatsonModeration.<moderateWUrl>d__8.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\WatsonModeration.cs:line 239;
+2016-09-06 15:07:13.9709;15;;Trace;Mess to Moderator sent; url=http://28.media.tumblr.com/tumblr_lyb78mCojl1r189uao1_500.jpg;
+2016-09-06 15:07:14.0430;13;;Trace;WATSON picturesCurrentDay;8; JSON;animal(type /animals) - 0.689974; mammal(type /animals/mammal) - 0.574443; ;
+2016-09-06 15:07:14.1659;13;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<ProcessPhotoModeration>d__5.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 128
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 394;
+2016-09-06 15:07:14.1659;13;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<ProcessPhotoModeration>d__5.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 128
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 394;
+2016-09-06 15:07:14.2438;16;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<ProcessPhotoModeration>d__5.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 128
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 394;
+2016-09-06 15:07:14.2438;16;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<ProcessPhotoModeration>d__5.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 128
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 394;
+2016-09-06 15:07:14.2788;13;;Trace;FROM;215713298;NAME;zhulikoff;TEXT; /catapi;
+2016-09-06 15:07:14.2788;15;;Trace;FROM;215713298;NAME;zhulikoff;TEXT; /changelanguage_ru;
+2016-09-06 15:07:14.2788;11;;Trace;FROM;215713298;NAME;zhulikoff;TEXT; /vote;
+2016-09-06 15:07:14.2978;16;;Trace;WATSON picturesCurrentDay;8; JSON;animal(type /animals) - 0.999999; mammal(type /animals/mammal) - 0.999998; dog(type /animals/pets/dog) - 0.960834; ;
+2016-09-06 15:07:14.3478;13;;Trace;USER WITH ID 158438363 will be now Registered;
+2016-09-06 15:07:14.3478;13;;Trace;User Username @KireevGm Registered!;
+2016-09-06 15:07:14.3478;13;;Trace;FROM;158438363;NAME;KireevGm;TEXT; /help;
+2016-09-06 15:07:14.3478;15;;Trace;FROM;158438363;NAME;KireevGm;TEXT; /start;
+2016-09-06 15:07:14.4208;16;;Trace;WATSON picturesCurrentDay;9; JSON;animal(type /animals) - 1; mammal(type /animals/mammal) - 1; cat(type /animals/pets/cat) - 0.967705; ;
+2016-09-06 15:07:14.5474;16;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 326;
+2016-09-06 15:07:14.5474;16;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 326;
+2016-09-06 15:07:14.5544;15;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 267;
+2016-09-06 15:07:14.5544;15;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 267;
+2016-09-06 15:07:14.8448;15;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_m22h2qhwn61qcxyrro1_500.jpg;
+2016-09-06 15:07:14.8487;15;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_m22h2qhwn61qcxyrro1_500.jpg;
+2016-09-06 15:07:14.8487;15;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_m22h2qhwn61qcxyrro1_500.jpg;
+2016-09-06 15:07:14.9057;16;;Trace;Mess to Moderator sent; url=http://24.media.tumblr.com/tumblr_m3borpVfsJ1r73wdao1_500.jpg;
+2016-09-06 15:07:15.6121;16;;Trace;WATSON picturesCurrentDay;10; JSON;animal(type /animals) - 0.930862; mammal(type /animals/mammal) - 0.880797; person(type /people) - 0.524979; ;
+2016-09-06 15:07:26.9198;16;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /сфефзш;
+2016-09-06 15:07:30.0523;16;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-06 15:07:31.8116;18;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_m38n72CB0h1qzex9io1_500.jpg;
+2016-09-06 15:07:31.8116;18;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_m38n72CB0h1qzex9io1_500.jpg;
+2016-09-06 15:07:31.8116;18;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_m38n72CB0h1qzex9io1_500.jpg;
+2016-09-06 15:07:32.6515;18;;Trace;WATSON picturesCurrentDay;10; JSON;animal(type /animals) - 0.99593; mammal(type /animals/mammal) - 0.710949; cat(type /animals/pets/cat) - 0.598688; ;
+2016-09-06 15:07:35.5215;18;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-06 15:07:36.0952;18;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_lxktqiObOi1r4fgeeo1_1280.jpg;
+2016-09-06 15:07:36.0952;18;;Trace;URL catapi to Process=http://24.media.tumblr.com/tumblr_lxktqiObOi1r4fgeeo1_1280.jpg;
+2016-09-06 15:07:36.0952;18;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_lxktqiObOi1r4fgeeo1_1280.jpg;
+2016-09-06 15:07:40.8980;15;;Trace;WATSON picturesCurrentDay;10; JSON;dog(type /animals/pets/dog) - 0.524979; ;
+2016-09-06 15:07:43.4094;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-06 15:07:43.9791;15;;Trace;CATSAPI url=http://29.media.tumblr.com/tumblr_m1pgw0dgrU1qjahcpo1_400.jpg;
+2016-09-06 15:07:43.9791;15;;Trace;URL catapi to Process=http://29.media.tumblr.com/tumblr_m1pgw0dgrU1qjahcpo1_400.jpg;
+2016-09-06 15:07:43.9791;15;;Trace;INCOMING url=http://29.media.tumblr.com/tumblr_m1pgw0dgrU1qjahcpo1_400.jpg;
+2016-09-06 15:07:44.7279;15;;Trace;WATSON picturesCurrentDay;10; JSON;animal(type /animals) - 1; mammal(type /animals/mammal) - 1; cat(type /animals/pets/cat) - 0.98016; ;
+2016-09-06 15:07:45.1246;18;;Trace;Mess to Moderator sent; url=http://29.media.tumblr.com/tumblr_m1pgw0dgrU1qjahcpo1_400.jpg;
+2016-09-06 15:08:05.6494;15;;Trace;updateLikes scatid=64; suserid=_190409129;
+2016-09-06 15:08:38.0026;20;;Trace;updateLikes scatid=375; suserid=_61407387;
+2016-09-06 15:08:44.0201;15;;Trace;updateLikes scatid=154; suserid=_61407387;
+2016-09-06 15:15:55.6959;23;;Trace;FROM;88185635;NAME;domchi;TEXT; /start;
+2016-09-06 15:16:04.6551;19;;Trace;FROM;88185635;NAME;domchi;TEXT; /vote;
+2016-09-06 15:16:23.6015;19;;Trace;updateLikes scatid=82; suserid=_88185635;
+2016-09-06 15:16:29.4571;19;;Trace;updateLikes scatid=318; suserid=_88185635;
+2016-09-06 15:16:33.3037;22;;Trace;updateLikes scatid=204; suserid=_88185635;
+2016-09-06 15:16:36.3628;22;;Trace;updateLikes scatid=185; suserid=_88185635;
+2016-09-06 15:16:40.0034;22;;Trace;updateLikes scatid=199; suserid=_88185635;
+2016-09-06 15:16:54.5155;22;;Trace;FROM;88185635;NAME;domchi;TEXT; /catapi;
+2016-09-06 15:16:55.9530;24;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_m3tmjuMfqs1rtuomto1_500.jpg;
+2016-09-06 15:16:55.9530;24;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_m3tmjuMfqs1rtuomto1_500.jpg;
+2016-09-06 15:16:55.9530;24;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_m3tmjuMfqs1rtuomto1_500.jpg;
+2016-09-06 15:16:56.9530;24;;Trace;WATSON picturesCurrentDay;11; JSON;animal(type /animals) - 1; mammal(type /animals/mammal) - 1; cat(type /animals/pets/cat) - 0.98016; ;
+2016-09-06 15:16:57.5468;18;;Trace;Mess to Moderator sent; url=http://25.media.tumblr.com/tumblr_m3tmjuMfqs1rtuomto1_500.jpg;
+2016-09-06 15:17:14.0462;18;;Trace;FROM;88185635;NAME;domchi;TEXT; /catapi;
+2016-09-06 15:17:14.7187;21;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_lstiwtU0Jb1r4xjo2o1_1280.jpg;
+2016-09-06 15:17:14.7187;21;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_lstiwtU0Jb1r4xjo2o1_1280.jpg;
+2016-09-06 15:17:14.7187;21;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_lstiwtU0Jb1r4xjo2o1_1280.jpg;
+2016-09-06 15:17:15.4401;21;;Trace;WATSON picturesCurrentDay;12; JSON;night sky(type /concepts/night sky) - 0.890903; animal(type /animals) - 0.574443; fish(type /animals/fish) - 0.524979; ;
+2016-09-06 15:17:27.6444;18;;Trace;FROM;88185635;NAME;domchi;TEXT; /catapi;
+2016-09-06 15:17:28.2538;18;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_m4756l0u9N1qa6z3eo1_1280.jpg;
+2016-09-06 15:17:28.2538;18;;Trace;URL catapi to Process=http://24.media.tumblr.com/tumblr_m4756l0u9N1qa6z3eo1_1280.jpg;
+2016-09-06 15:17:28.2538;18;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_m4756l0u9N1qa6z3eo1_1280.jpg;
+2016-09-06 15:17:29.8006;18;;Trace;WATSON picturesCurrentDay;12; JSON;animal(type /animals) - 1; mammal(type /animals/mammal) - 1; cat(type /animals/pets/cat) - 0.845535; ;
+2016-09-06 15:17:30.4412;21;;Trace;Mess to Moderator sent; url=http://24.media.tumblr.com/tumblr_m4756l0u9N1qa6z3eo1_1280.jpg;
+2016-09-06 15:19:08.1355;20;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-06 15:19:08.6833;25;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_lhryauvLRK1qawqx6o1_1280.jpg;
+2016-09-06 15:19:08.6833;25;;Trace;URL catapi to Process=http://24.media.tumblr.com/tumblr_lhryauvLRK1qawqx6o1_1280.jpg;
+2016-09-06 15:19:08.6833;25;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_lhryauvLRK1qawqx6o1_1280.jpg;
+2016-09-06 15:19:09.4057;25;;Trace;WATSON picturesCurrentDay;13; JSON;white(type /colors/white) - 0.5; ;
+2016-09-06 15:19:12.8949;26;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /vote;
+2016-09-06 15:19:15.3458;25;;Trace;updateLikes scatid=87; suserid=_101320350;
+2016-09-06 15:19:25.8744;25;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi300;
+2016-09-06 15:19:27.2053;26;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_m3z0dwCd2w1qhwmnpo1_1280.jpg;
+2016-09-06 15:19:27.2053;26;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_m3z0dwCd2w1qhwmnpo1_1280.jpg;
+2016-09-06 15:19:27.2053;26;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_m3z0dwCd2w1qhwmnpo1_1280.jpg;
+2016-09-06 15:19:27.9709;26;;Trace;WATSON picturesCurrentDay;13; JSON;animal(type /animals) - 0.998341; mammal(type /animals/mammal) - 0.996665; cat(type /animals/pets/cat) - 0.960834; ;
+2016-09-06 15:19:28.5178;26;;Trace;Mess to Moderator sent; url=http://25.media.tumblr.com/tumblr_m3z0dwCd2w1qhwmnpo1_1280.jpg;
+2016-09-06 15:25:35.8412;28;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-06 15:25:36.4506;29;;Trace;CATSAPI url=http://25.media.tumblr.com/Jjkybd3nS9i6ue722w9M27AG_500.jpg;
+2016-09-06 15:25:36.4506;29;;Trace;URL catapi to Process=http://25.media.tumblr.com/Jjkybd3nS9i6ue722w9M27AG_500.jpg;
+2016-09-06 15:25:36.4506;29;;Trace;INCOMING url=http://25.media.tumblr.com/Jjkybd3nS9i6ue722w9M27AG_500.jpg;
+2016-09-06 15:25:37.5320;21;;Trace;WATSON picturesCurrentDay;14; JSON;animal(type /animals) - 0.645656; ;
+2016-09-06 15:25:39.5970;21;;Trace;updateLikes scatid=427; suserid=_101320350;
+2016-09-06 15:25:42.3001;21;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-06 15:25:42.9876;21;;Trace;CATSAPI url=http://28.media.tumblr.com/tumblr_m2wlp2HCkg1qhwmnpo1_1280.jpg;
+2016-09-06 15:25:42.9876;21;;Trace;URL catapi to Process=http://28.media.tumblr.com/tumblr_m2wlp2HCkg1qhwmnpo1_1280.jpg;
+2016-09-06 15:25:42.9876;21;;Trace;INCOMING url=http://28.media.tumblr.com/tumblr_m2wlp2HCkg1qhwmnpo1_1280.jpg;
+2016-09-06 15:25:43.7500;21;;Trace;WATSON picturesCurrentDay;14; JSON;animal(type /animals) - 0.999999; mammal(type /animals/mammal) - 0.999998; cat(type /animals/pets/cat) - 0.970688; ;
+2016-09-06 15:25:44.5937;21;;Trace;Mess to Moderator sent; url=http://28.media.tumblr.com/tumblr_m2wlp2HCkg1qhwmnpo1_1280.jpg;
+2016-09-06 15:25:47.1351;21;;Trace;updateLikes scatid=278; suserid=_101320350;
+2016-09-06 15:26:34.3941;29;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-06 15:26:34.9295;23;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_ln8hfaHLLN1qdth8zo1_1280.jpg;
+2016-09-06 15:26:34.9295;23;;Trace;URL catapi to Process=http://24.media.tumblr.com/tumblr_ln8hfaHLLN1qdth8zo1_1280.jpg;
+2016-09-06 15:26:34.9295;23;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_ln8hfaHLLN1qdth8zo1_1280.jpg;
+2016-09-06 15:26:35.7420;23;;Trace;WATSON picturesCurrentDay;15; JSON;animal(type /animals) - 0.999909; mammal(type /animals/mammal) - 0.998641; cat(type /animals/pets/cat) - 0.947846; kitten(type /animals/pets/kitten) - 0.5; ;
+2016-09-06 15:26:36.1525;23;;Trace;Mess to Moderator sent; url=http://24.media.tumblr.com/tumblr_ln8hfaHLLN1qdth8zo1_1280.jpg;
+2016-09-06 16:09:14.4742;24;;Trace;USER WITH ID 219698415 will be now Registered;
+2016-09-06 16:09:14.4742;24;;Trace;User Username @Yarik Registered!;
+2016-09-06 16:09:14.4898;24;;Trace;FROM;219698415;NAME;Yarik;TEXT; /start;
+2016-09-06 16:09:23.2390;24;;Trace;FROM;219698415;NAME;Yarik;TEXT; /help;
+2016-09-06 16:12:10.1862;29;;Trace;FROM;219698415;NAME;Yarik;TEXT; /vote;
+2016-09-06 16:12:16.7645;29;;Trace;updateLikes scatid=250; suserid=_219698415;
+2016-09-06 16:12:20.3472;28;;Trace;updateLikes scatid=72; suserid=_219698415;
+2016-09-06 16:12:22.7242;28;;Trace;updateLikes scatid=156; suserid=_219698415;
+2016-09-06 16:12:28.9942;17;;Trace;updateLikes scatid=15; suserid=_219698415;
+2016-09-06 16:12:31.9779;17;;Trace;updateLikes scatid=301; suserid=_219698415;
+2016-09-06 16:12:37.7839;28;;Trace;updateLikes scatid=316; suserid=_219698415;
+2016-09-06 16:12:40.4135;28;;Trace;updateLikes scatid=264; suserid=_219698415;
+2016-09-06 16:12:42.7981;28;;Trace;updateLikes scatid=271; suserid=_219698415;
+2016-09-06 16:12:44.8473;21;;Trace;updateLikes scatid=362; suserid=_219698415;
+2016-09-06 16:12:48.6625;28;;Trace;updateLikes scatid=159; suserid=_219698415;
+2016-09-06 16:13:10.0635;28;;Trace;FROM;219698415;NAME;Yarik;TEXT; /catapi;
+2016-09-06 16:13:11.4698;16;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_mb80u8wgFZ1qfqm2lo1_1280.jpg;
+2016-09-06 16:13:11.4698;16;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_mb80u8wgFZ1qfqm2lo1_1280.jpg;
+2016-09-06 16:13:11.4698;16;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_mb80u8wgFZ1qfqm2lo1_1280.jpg;
+2016-09-06 16:13:12.6416;16;;Trace;WATSON picturesCurrentDay;16; JSON;animal(type /animals) - 0.999833; mammal(type /animals/mammal) - 0.999254; cat(type /animals/pets/cat) - 0.997268; white(type /colors/white) - 0.645656; ;
+2016-09-06 16:13:13.1416;19;;Trace;Mess to Moderator sent; url=http://25.media.tumblr.com/tumblr_mb80u8wgFZ1qfqm2lo1_1280.jpg;
+2016-09-06 17:07:05.9206;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-06 17:07:06.5144;23;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_m4h9jzWk7l1qddbvio1_500.jpg;
+2016-09-06 17:07:06.5144;23;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_m4h9jzWk7l1qddbvio1_500.jpg;
+2016-09-06 17:07:06.5144;23;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_m4h9jzWk7l1qddbvio1_500.jpg;
+2016-09-06 17:07:09.0160;23;;Trace;WATSON picturesCurrentDay;17; JSON;animal(type /animals) - 0.924142; mammal(type /animals/mammal) - 0.785835; cat(type /animals/pets/cat) - 0.668188; ;
+2016-09-06 17:07:12.1254;23;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-06 17:07:12.7660;16;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_m91fpfIBTX1qhwmnpo1_1280.jpg;
+2016-09-06 17:07:12.7660;16;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_m91fpfIBTX1qhwmnpo1_1280.jpg;
+2016-09-06 17:07:12.7660;16;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_m91fpfIBTX1qhwmnpo1_1280.jpg;
+2016-09-06 17:07:13.5652;16;;Trace;WATSON picturesCurrentDay;17; JSON;car(type /vehicles/car) - 0.832018; ;
+2016-09-06 17:07:15.6745;23;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-06 17:07:17.0808;16;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_m0rqmiavs11qgjltdo1_1280.jpg;
+2016-09-06 17:07:17.0808;16;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_m0rqmiavs11qgjltdo1_1280.jpg;
+2016-09-06 17:07:17.0808;16;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_m0rqmiavs11qgjltdo1_1280.jpg;
+2016-09-06 17:07:17.9870;16;;Trace;WATSON picturesCurrentDay;17; JSON;animal(type /animals) - 0.999999; mammal(type /animals/mammal) - 0.999996; lion(type /animals/lion) - 0.731059; ;
+2016-09-06 17:07:20.3308;16;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-06 17:07:21.5187;16;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_liygfwvh7z1qdvbl3o1_500.jpg;
+2016-09-06 17:07:21.5343;16;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_liygfwvh7z1qdvbl3o1_500.jpg;
+2016-09-06 17:07:21.5343;16;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_liygfwvh7z1qdvbl3o1_500.jpg;
+2016-09-06 17:07:22.3652;16;;Trace;WATSON picturesCurrentDay;17; JSON;pap(type /authentication protocols/pap) - 0.377541; ;
+2016-09-06 17:07:23.9433;16;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-06 17:07:24.5371;16;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_lrz35z0Fon1qbhms5o1_500.jpg;
+2016-09-06 17:07:24.5371;16;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_lrz35z0Fon1qbhms5o1_500.jpg;
+2016-09-06 17:07:24.5371;16;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_lrz35z0Fon1qbhms5o1_500.jpg;
+2016-09-06 17:07:26.1933;16;;Trace;WATSON picturesCurrentDay;17; JSON;person(type /people) - 0.978119; animal(type /animals) - 0.668188; mammal(type /animals/mammal) - 0.598688; ;
+2016-09-06 17:07:27.7246;16;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-06 17:07:28.2402;14;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_li261eRYhk1qgnva2o1_500.jpg;
+2016-09-06 17:07:28.2402;14;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_li261eRYhk1qgnva2o1_500.jpg;
+2016-09-06 17:07:28.2402;14;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_li261eRYhk1qgnva2o1_500.jpg;
+2016-09-06 17:07:30.0683;14;;Trace;WATSON picturesCurrentDay;17; JSON;animal(type /animals) - 0.999999; mammal(type /animals/mammal) - 0.999999; cat(type /animals/pets/cat) - 0.992608; ;
+2016-09-06 17:07:30.4746;14;;Trace;Mess to Moderator sent; url=http://25.media.tumblr.com/tumblr_li261eRYhk1qgnva2o1_500.jpg;
+2016-09-06 17:35:52.4338;16;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-06 17:35:53.9210;15;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_m49uuqvZJD1qg9hpeo1_1280.jpg;
+2016-09-06 17:35:53.9210;15;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_m49uuqvZJD1qg9hpeo1_1280.jpg;
+2016-09-06 17:35:53.9210;15;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_m49uuqvZJD1qg9hpeo1_1280.jpg;
+2016-09-06 17:35:54.9953;15;;Trace;WATSON picturesCurrentDay;18; JSON;animal(type /animals) - 0.802184; bird(type /animals/bird) - 0.785835; ;
+2016-09-06 17:36:00.2160;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-06 17:36:00.9973;15;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_m47eb0jI4M1qbd47zo1_1280.jpg;
+2016-09-06 17:36:00.9973;15;;Trace;URL catapi to Process=http://24.media.tumblr.com/tumblr_m47eb0jI4M1qbd47zo1_1280.jpg;
+2016-09-06 17:36:00.9973;15;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_m47eb0jI4M1qbd47zo1_1280.jpg;
+2016-09-06 17:36:01.8434;15;;Trace;WATSON picturesCurrentDay;18; JSON;animal(type /animals) - 0.98016; mammal(type /animals/mammal) - 0.916827; cat(type /animals/pets/cat) - 0.817574; ;
+2016-09-06 17:36:02.2652;15;;Trace;Mess to Moderator sent; url=http://24.media.tumblr.com/tumblr_m47eb0jI4M1qbd47zo1_1280.jpg;
+2016-09-06 17:36:07.7709;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-06 17:36:07.8044;15;;Trace;getModeration OK! fileid=AgADAgAD96cxG54GCgbMTh5oEM81hd0JcQ0ABNfGLNrhqKlG4ZMBAAEC;
+2016-09-06 17:36:13.4130;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_ok_42;
+2016-09-07 12:53:57.5769;1;;Trace;USERS COUNT=51;
+2016-09-07 12:53:59.3094;8;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-07 12:53:59.3094;8;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /cat_api;
+2016-09-07 12:53:59.8875;11;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_m247t7o7J61qbe5pxo1_1280.jpg;
+2016-09-07 12:53:59.8875;11;;Trace;catapi100 URL #0 to Process=http://24.media.tumblr.com/tumblr_m247t7o7J61qbe5pxo1_1280.jpg;
+2016-09-07 12:53:59.8875;11;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_m247t7o7J61qbe5pxo1_1280.jpg;
+2016-09-07 12:54:00.9343;8;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 1; mammal(type /animals/mammal) - 1; cat(type /animals/pets/cat) - 0.992608; ;
+2016-09-07 12:54:01.4830;8;;Trace;Mess to Moderator sent; url=http://24.media.tumblr.com/tumblr_m247t7o7J61qbe5pxo1_1280.jpg;
+2016-09-07 12:54:02.6705;11;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_ly1m64ofjV1qzv52ko1_1280.jpg;
+2016-09-07 12:54:02.6705;11;;Trace;catapi100 URL #1 to Process=http://24.media.tumblr.com/tumblr_ly1m64ofjV1qzv52ko1_1280.jpg;
+2016-09-07 12:54:02.6705;11;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_ly1m64ofjV1qzv52ko1_1280.jpg;
+2016-09-07 12:54:03.4193;8;;Trace;WATSON picturesCurrentDay;1; JSON;animal(type /animals) - 0.99995; mammal(type /animals/mammal) - 0.999816; cat(type /animals/pets/cat) - 0.993307; ;
+2016-09-07 12:54:04.3286;8;;Trace;Mess to Moderator sent; url=http://24.media.tumblr.com/tumblr_ly1m64ofjV1qzv52ko1_1280.jpg;
+2016-09-07 12:54:05.2084;8;;Trace;CATSAPI url=http://30.media.tumblr.com/tumblr_m2p47bD7xS1qzmsk6o1_1280.jpg;
+2016-09-07 12:54:05.2084;8;;Trace;catapi100 URL #2 to Process=http://30.media.tumblr.com/tumblr_m2p47bD7xS1qzmsk6o1_1280.jpg;
+2016-09-07 12:54:05.2084;8;;Trace;INCOMING url=http://30.media.tumblr.com/tumblr_m2p47bD7xS1qzmsk6o1_1280.jpg;
+2016-09-07 12:54:06.0305;8;;Trace;WATSON picturesCurrentDay;2; JSON;animal(type /animals) - 0.992608; mammal(type /animals/mammal) - 0.983697; cat(type /animals/pets/cat) - 0.975873; ;
+2016-09-07 12:54:06.5770;8;;Trace;Mess to Moderator sent; url=http://30.media.tumblr.com/tumblr_m2p47bD7xS1qzmsk6o1_1280.jpg;
+2016-09-07 12:54:07.2844;11;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_m4iirrtss81r6jd7fo1_1280.jpg;
+2016-09-07 12:54:07.2844;11;;Trace;catapi100 URL #3 to Process=http://25.media.tumblr.com/tumblr_m4iirrtss81r6jd7fo1_1280.jpg;
+2016-09-07 12:54:07.2844;11;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_m4iirrtss81r6jd7fo1_1280.jpg;
+2016-09-07 12:54:36.4432;1;;Trace;USERS COUNT=51;
+2016-09-07 12:54:39.1576;9;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-07 12:54:39.1576;9;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /cat_api;
+2016-09-07 12:54:51.5141;9;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-07 12:54:52.0688;9;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_l1kj0qjTEL1qbd47zo1_400.jpg;
+2016-09-07 12:54:52.0688;9;;Trace;URL catapi to Process=http://24.media.tumblr.com/tumblr_l1kj0qjTEL1qbd47zo1_400.jpg;
+2016-09-07 12:54:52.0688;9;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_l1kj0qjTEL1qbd47zo1_400.jpg;
+2016-09-07 12:54:53.1641;11;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 0.549834; ;
+2016-09-07 12:55:03.5797;12;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /vote;
+2016-09-07 12:55:05.6288;12;;Trace;updateLikes scatid=381; suserid=_101320350;
+2016-09-07 14:36:56.3455;12;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /help;
+2016-09-07 14:37:41.8702;8;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /whoisyourdaddy;
+2016-09-07 17:56:49.8682;1;;Trace;USERS COUNT=53;
+2016-09-07 17:57:06.1426;11;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-07 17:57:06.1426;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-07 17:57:06.8466;11;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_lucr7vuCsQ1qzx66do1_500.jpg;
+2016-09-07 17:57:06.8466;11;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_lucr7vuCsQ1qzx66do1_500.jpg;
+2016-09-07 17:57:06.8466;11;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_lucr7vuCsQ1qzx66do1_500.jpg;
+2016-09-07 17:57:07.8903;12;;Trace;WATSON picturesCurrentDay;0; JSON;bird(type /animals/bird) - 0.999998; animal(type /animals) - 0.999988; ;
+2016-09-07 18:00:36.0081;8;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 18:00:36.0238;8;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 18:13:10.8854;13;;Trace;USER WITH ID 234943337 will be now Registered;
+2016-09-07 18:13:10.9010;13;;Trace;User Username @ Registered!;
+2016-09-07 18:13:10.9010;13;;Trace;FROM;234943337;NAME;;TEXT; /start;
+2016-09-07 18:14:17.1151;17;;Trace;FILE incoming PhotoMessage id =AgADAgADqacxG2nzAAEO6hyM5DE8-BZtKnENAAQWQDuG4cpTkWbEAQABAg size=127364 mb=0;
+2016-09-07 18:14:17.6308;18;;Trace;Received Photo: FilePath photo/file_277.jpg; caption=photo/file_277.jpg; id=AgADAgADqacxG2nzAAEO6hyM5DE8-BZtKnENAAQWQDuG4cpTkWbEAQABAg; chatId=photo/file_277.jpg; MessageId=234943337;;
+2016-09-07 18:14:17.8495;18;;Trace;FILE PhotoMessage PROCESSED id =AgADAgADqacxG2nzAAEO6hyM5DE8-BZtKnENAAQWQDuG4cpTkWbEAQABAg;
+2016-09-07 18:14:18.3183;18;;Trace;FILE url=https://api.telegram.org/file/bot232067264:AAGD1hmlGAKFry3awke7ybyGPhHVOJvK1-g/photo/file_277.jpg;
+2016-09-07 18:14:20.9433;18;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 0.999983; mammal(type /animals/mammal) - 0.999977; cat(type /animals/pets/cat) - 0.996316; kitten(type /animals/pets/kitten) - 0.645656; ;
+2016-09-07 18:14:54.0466;18;;Trace;FROM;234943337;NAME;;TEXT; /help;
+2016-09-07 20:04:26.8861;20;;Trace;updateLikes scatid=227; suserid=_263682676;
+2016-09-07 20:04:27.2455;20;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:04:27.2455;20;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:04:41.3038;20;;Trace;USER WITH ID 263682676 will be now Registered;
+2016-09-07 20:04:41.3038;20;;Trace;User Username @ Registered!;
+2016-09-07 20:04:41.3195;20;;Trace;FROM;263682676;NAME;;TEXT; /vote;
+2016-09-07 20:06:27.7979;14;;Trace;updateLikes scatid=301; suserid=_263682676;
+2016-09-07 20:06:28.3703;14;;Trace;updateLikes scatid=301; suserid=_263682676;
+2016-09-07 20:06:28.5265;13;;Trace;updateLikes scatid=301; suserid=_263682676;
+2016-09-07 20:09:51.3619;15;;Trace;updateLikes scatid=419; suserid=_263682676;
+2016-09-07 20:09:51.9244;15;;Trace;updateLikes scatid=419; suserid=_263682676;
+2016-09-07 20:09:54.0925;12;;Trace;updateLikes scatid=237; suserid=_263682676;
+2016-09-07 20:13:12.6515;11;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.BotDb.change_User_Lang(Langs newlang, Int32 userid);
+2016-09-07 20:13:13.0109;11;;Debug;Telegram.Bot.Exceptions.ApiRequestException: PEER_ID_INVALID
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:13.0109;11;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:23.3546;11;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:23.3546;11;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:29.7051;11;;Trace;updateLikes scatid=704; suserid=_231505757;
+2016-09-07 20:13:29.9394;11;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:29.9394;11;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:32.3637;11;;Trace;updateLikes scatid=190; suserid=_274194978;
+2016-09-07 20:13:32.5668;11;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:32.5668;11;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:34.7931;11;;Trace;updateLikes scatid=475; suserid=_274194978;
+2016-09-07 20:13:35.0275;11;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:35.0275;11;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:38.9265;11;;Trace;updateLikes scatid=108; suserid=_274194978;
+2016-09-07 20:13:39.1609;20;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:39.1609;20;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:41.3356;20;;Trace;updateLikes scatid=247; suserid=_274194978;
+2016-09-07 20:13:41.5543;20;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:41.5543;20;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:46.8729;20;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:46.8729;20;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 21:56:38.0911;20;;Trace;FROM;130977446;NAME;simongforce;TEXT; /catapi;
+2016-09-07 21:56:38.7973;9;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_lj4vt7OtUv1qbitbyo1_r1_500.jpg;
+2016-09-07 21:56:38.7973;9;;Trace;URL catapi to Process=http://24.media.tumblr.com/tumblr_lj4vt7OtUv1qbitbyo1_r1_500.jpg;
+2016-09-07 21:56:38.7973;9;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_lj4vt7OtUv1qbitbyo1_r1_500.jpg;
+2016-09-07 21:56:47.1313;9;;Trace;WATSON picturesCurrentDay;1; JSON;animal(type /animals) - 0.98016; mammal(type /animals/mammal) - 0.956893; cat(type /animals/pets/cat) - 0.710949; ;
+2016-09-08 00:06:35.9371;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; http://cs8.pikabu.ru/post_img/2016/09/07/9/1473258264154941866.jpg;
+2016-09-08 00:06:35.9371;11;;Trace;photocount=photo NULL; pinned=False;
+2016-09-08 00:06:36.2184;11;;Trace;URL to Process=http://cs8.pikabu.ru/post_img/2016/09/07/9/1473258264154941866.jpg;
+2016-09-08 00:06:36.2184;11;;Trace;INCOMING url=http://cs8.pikabu.ru/post_img/2016/09/07/9/1473258264154941866.jpg;
+2016-09-08 00:06:39.6422;11;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 1; mammal(type /animals/mammal) - 1; cat(type /animals/pets/cat) - 0.975873; ;
+2016-09-08 11:38:42.8795;21;;Trace;USER WITH ID 243085021 will be now Registered;
+2016-09-08 11:38:42.8795;21;;Trace;User Username @nss91 Registered!;
+2016-09-08 11:38:42.8795;21;;Trace;FROM;243085021;NAME;nss91;TEXT; /start;
+2016-09-08 11:38:43.3321;21;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.3321;21;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.4477;21;;Trace;FROM;243085021;NAME;nss91;TEXT; /help;
+2016-09-08 11:38:43.5868;12;;Trace;FROM;243085021;NAME;nss91;TEXT; /whoisyourddaddy;
+2016-09-08 11:38:43.5868;9;;Trace;FROM;243085021;NAME;nss91;TEXT; /instructions;
+2016-09-08 11:38:43.5978;9;;Trace;FROM;243085021;NAME;nss91;TEXT; /help an info;
+2016-09-08 11:38:43.5978;12;;Trace;FROM;243085021;NAME;nss91;TEXT; /start;
+2016-09-08 11:38:43.5978;21;;Trace;FROM;243085021;NAME;nss91;TEXT; /start;
+2016-09-08 11:38:43.5978;9;;Trace;FROM;243085021;NAME;nss91;TEXT; /getlatesturl https://mega.nz/#!YpsADaLT!f6MyieHGVGLXeC6iIk6NlsEj7DT1ADryqL_Nag48ZXQ;
+2016-09-08 11:38:43.5978;12;;Trace;FROM;243085021;NAME;nss91;TEXT; /getallurls;
+2016-09-08 11:38:43.6058;21;;Trace;FROM;243085021;NAME;nss91;TEXT; https://mega.nz/#!YpsADaLT!f6MyieHGVGLXeC6iIk6NlsEj7DT1ADryqL_Nag48ZXQ;
+2016-09-08 11:38:43.7377;21;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.7377;21;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.6725;9;;Debug;System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.7907;12;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.7907;12;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.7907;9;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.7907;9;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.8017;12;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.8017;12;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.8017;9;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.8017;9;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.8017;12;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.8017;9;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.8017;9;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.8017;21;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.8017;21;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.9400;21;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.9400;21;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:44.0174;9;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:44.0174;9;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:39:49.8558;1;;Trace;USERS COUNT=56;
+2016-09-08 11:42:34.0139;14;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-08 11:42:34.0139;14;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /help;
+2016-09-08 12:42:00.4742;1;;Trace;USERS COUNT=56;
+2016-09-08 13:10:31.2807;11;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-08 13:10:31.2807;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-08 13:10:31.9483;8;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_m4fnseQ4hk1qcxyrro1_500.jpg;
+2016-09-08 13:10:31.9483;8;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_m4fnseQ4hk1qcxyrro1_500.jpg;
+2016-09-08 13:10:31.9563;8;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_m4fnseQ4hk1qcxyrro1_500.jpg;
+2016-09-08 13:10:34.5353;8;;Trace;WATSON picturesCurrentDay;0; JSON;vegetation(type ) - 0.990048; nature(type /activities/events/details/features/factors/nature) - 0.973403; forest(type /issues/natural resources/forest) - 0.937027; ;
+2016-09-08 13:10:40.0919;10;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-08 13:10:41.5659;10;;Trace;CATSAPI url=http://25.media.tumblr.com/qgIb8tERipve3tebwXf1nhsCo1_500.jpg;
+2016-09-08 13:10:41.5659;10;;Trace;URL catapi to Process=http://25.media.tumblr.com/qgIb8tERipve3tebwXf1nhsCo1_500.jpg;
+2016-09-08 13:10:41.5659;10;;Trace;INCOMING url=http://25.media.tumblr.com/qgIb8tERipve3tebwXf1nhsCo1_500.jpg;
+2016-09-08 13:10:42.2809;10;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 0.999925; mammal(type /animals/mammal) - 0.999775; cat(type /animals/pets/cat) - 0.993307; kitten(type /animals/pets/kitten) - 0.549834; ;
+2016-09-08 13:10:47.0822;10;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /vote;
+2016-09-08 13:10:49.3950;8;;Trace;updateLikes scatid=551; suserid=_101320350;
+2016-09-08 13:10:52.9728;8;;Trace;updateLikes scatid=664; suserid=_101320350;
+2016-09-08 15:12:37.6182;1;;Trace;USERS COUNT=56;
+2016-09-08 15:12:46.6455;11;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-08 15:12:46.6455;11;;Trace;updateLikes scatid=303; suserid=_101320350;
+2016-09-08 15:12:57.9601;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-08 15:12:58.7647;8;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_m4flwaWGu21r3is9so1_500.jpg;
+2016-09-08 15:12:58.7647;8;;Trace;URL catapi to Process=http://24.media.tumblr.com/tumblr_m4flwaWGu21r3is9so1_500.jpg;
+2016-09-08 15:12:58.7647;8;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_m4flwaWGu21r3is9so1_500.jpg;
+2016-09-08 15:13:00.6164;11;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 1; mammal(type /animals/mammal) - 1; cat(type /animals/pets/cat) - 0.978119; ;
+2016-09-08 15:26:34.6442;12;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-08 15:26:35.2692;11;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_lqcgfoqWc71qbe5pxo1_1280.jpg;
+2016-09-08 15:26:35.2692;11;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_lqcgfoqWc71qbe5pxo1_1280.jpg;
+2016-09-08 15:26:35.2692;11;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_lqcgfoqWc71qbe5pxo1_1280.jpg;
+2016-09-08 15:26:36.3630;12;;Trace;WATSON picturesCurrentDay;1; JSON;animal(type /animals) - 1; mammal(type /animals/mammal) - 1; cat(type /animals/pets/cat) - 0.99394; kitten(type /animals/pets/kitten) - 0.549834; ;
+2016-09-08 17:16:03.8507;1;;Trace;USERS COUNT=56;
+2016-09-08 18:36:04.6831;9;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-08 18:36:04.6831;9;;Trace;FROM;248663734;NAME;peeern;TEXT; /catapi;
+2016-09-08 18:36:05.2835;11;;Trace;CATSAPI url=http://25.media.tumblr.com/qgIb8tERin3iyaw4ibxPqHejo1_500.jpg;
+2016-09-08 18:36:05.2835;11;;Trace;URL catapi to Process=http://25.media.tumblr.com/qgIb8tERin3iyaw4ibxPqHejo1_500.jpg;
+2016-09-08 18:36:05.2993;11;;Trace;INCOMING url=http://25.media.tumblr.com/qgIb8tERin3iyaw4ibxPqHejo1_500.jpg;
+2016-09-08 18:36:06.5119;11;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 0.5; ;
+2016-09-08 18:36:34.1789;11;;Trace;FROM;248663734;NAME;peeern;TEXT; /changelanguage_en;
+2016-09-08 18:36:45.1751;11;;Trace;FILE incoming PhotoMessage id =AgADAgADPqoxG8AQ1Q2W0Tvc1ey48TMPcQ0ABFqJVpZ_Ha1yzNABAAEC size=74318 mb=0;
+2016-09-08 18:36:45.6439;13;;Trace;Received Photo: FilePath photo/file_279.jpg; caption=Котик из thecatapi.com; id=AgADAgADPqoxG8AQ1Q2W0Tvc1ey48TMPcQ0ABFqJVpZ_Ha1yzNABAAEC; chatId=Котик из thecatapi.com; MessageId=248663734;;
+2016-09-08 18:36:45.9408;13;;Trace;FILE PhotoMessage PROCESSED id =AgADAgADPqoxG8AQ1Q2W0Tvc1ey48TMPcQ0ABFqJVpZ_Ha1yzNABAAEC;
+2016-09-08 18:36:46.4099;13;;Trace;FILE url=https://api.telegram.org/file/bot232067264:AAGD1hmlGAKFry3awke7ybyGPhHVOJvK1-g/photo/file_279.jpg;
+2016-09-08 18:36:47.8041;13;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 0.5; ;
+2016-09-08 18:37:23.9861;13;;Trace;FROM;248663734;NAME;peeern;TEXT; /catapi;
+2016-09-08 18:37:24.5329;14;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_lqyw8nyHP21qhavabo1_400.jpg;
+2016-09-08 18:37:24.5329;14;;Trace;URL catapi to Process=http://24.media.tumblr.com/tumblr_lqyw8nyHP21qhavabo1_400.jpg;
+2016-09-08 18:37:24.5329;14;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_lqyw8nyHP21qhavabo1_400.jpg;
+2016-09-08 18:37:25.5051;14;;Trace;WATSON picturesCurrentDay;1; JSON;animal(type /animals) - 1; mammal(type /animals/mammal) - 0.999998; cat(type /animals/pets/cat) - 0.99394; ;
+2016-09-08 18:37:46.5844;14;;Trace;FROM;248663734;NAME;peeern;TEXT; /catapi;
+2016-09-08 18:37:47.0688;12;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_llix0zOwXL1qdvbl3o1_500.jpg;
+2016-09-08 18:37:47.0688;12;;Trace;URL catapi to Process=http://24.media.tumblr.com/tumblr_llix0zOwXL1qdvbl3o1_500.jpg;
+2016-09-08 18:37:47.0688;12;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_llix0zOwXL1qdvbl3o1_500.jpg;
+2016-09-08 18:37:47.9594;12;;Trace;WATSON picturesCurrentDay;2; JSON;animal(type /animals) - 1; mammal(type /animals/mammal) - 1; cat(type /animals/pets/cat) - 0.952574; ;
+2016-09-08 18:37:57.4509;11;;Trace;FROM;248663734;NAME;peeern;TEXT; /catapi;
+2016-09-08 18:37:58.0790;12;;Trace;CATSAPI url=http://29.media.tumblr.com/Qo5gA2rU2qom4ikeT2x1vEVZo1_1280.jpg;
+2016-09-08 18:37:58.0790;12;;Trace;URL catapi to Process=http://29.media.tumblr.com/Qo5gA2rU2qom4ikeT2x1vEVZo1_1280.jpg;
+2016-09-08 18:37:58.0790;12;;Trace;INCOMING url=http://29.media.tumblr.com/Qo5gA2rU2qom4ikeT2x1vEVZo1_1280.jpg;
+2016-09-08 18:37:59.7057;12;;Trace;WATSON picturesCurrentDay;3; JSON;animal(type /animals) - 1; mammal(type /animals/mammal) - 1; cat(type /animals/pets/cat) - 0.598688; ;
+2016-09-08 18:38:12.6058;11;;Trace;FROM;248663734;NAME;peeern;TEXT; /vote;
+2016-09-08 18:38:22.3268;12;;Trace;FROM;248663734;NAME;peeern;TEXT; /instructions;
+2016-09-08 18:38:40.9954;12;;Trace;updateLikes scatid=386; suserid=_248663734;
+2016-09-08 18:38:44.8302;16;;Trace;updateLikes scatid=675; suserid=_248663734;
+2016-09-08 18:38:47.2875;17;;Trace;updateLikes scatid=1; suserid=_248663734;
+2016-09-08 18:38:49.7406;17;;Trace;updateLikes scatid=402; suserid=_248663734;
+2016-09-08 18:38:51.6472;16;;Trace;updateLikes scatid=318; suserid=_248663734;
+2016-09-08 18:38:53.4285;16;;Trace;updateLikes scatid=566; suserid=_248663734;
+2016-09-08 18:38:55.2773;16;;Trace;updateLikes scatid=724; suserid=_248663734;
+2016-09-08 18:38:57.5486;17;;Trace;updateLikes scatid=120; suserid=_248663734;
+2016-09-08 18:38:59.7673;17;;Trace;updateLikes scatid=540; suserid=_248663734;
+2016-09-08 18:39:02.0578;17;;Trace;updateLikes scatid=241; suserid=_248663734;
+2016-09-08 18:39:03.6227;9;;Trace;updateLikes scatid=216; suserid=_248663734;
+2016-09-08 18:39:06.0289;9;;Trace;updateLikes scatid=638; suserid=_248663734;
+2016-09-08 18:39:08.2524;9;;Trace;updateLikes scatid=260; suserid=_248663734;
+2016-09-08 18:39:10.3510;9;;Trace;updateLikes scatid=76; suserid=_248663734;
+2016-09-08 18:39:36.2363;12;;Trace;FROM;248663734;NAME;peeern;TEXT; /help;
+2016-09-08 20:00:14.3199;8;;Trace;FILE incoming PhotoMessage id =AgADAgADqqcxG2nzAAEOF1t4vdWNxqgg54ENAASNahZiqIHk1iVZAAIC size=132483 mb=0;
+2016-09-08 20:00:14.9137;8;;Trace;Received Photo: FilePath photo/file_281.jpg; caption=photo/file_281.jpg; id=AgADAgADqqcxG2nzAAEOF1t4vdWNxqgg54ENAASNahZiqIHk1iVZAAIC; chatId=photo/file_281.jpg; MessageId=234943337;;
+2016-09-08 20:00:15.1637;8;;Trace;FILE PhotoMessage PROCESSED id =AgADAgADqqcxG2nzAAEOF1t4vdWNxqgg54ENAASNahZiqIHk1iVZAAIC;
+2016-09-08 20:00:15.6480;9;;Trace;FILE url=https://api.telegram.org/file/bot232067264:AAGD1hmlGAKFry3awke7ybyGPhHVOJvK1-g/photo/file_281.jpg;
+2016-09-08 20:00:17.2284;9;;Trace;WATSON picturesCurrentDay;3; JSON;animal(type /animals) - 1; mammal(type /animals/mammal) - 1; cat(type /animals/pets/cat) - 0.947846; ;
+2016-09-08 20:01:22.4993;10;;Trace;FILE incoming PhotoMessage id =AgADAgADq6cxG2nzAAEOaOludQpws8Pm5YENAATrAAGxS5i4B5kyVwACAg size=146307 mb=0;
+2016-09-08 20:01:23.0306;11;;Trace;Received Photo: FilePath photo/file_283.jpg; caption=photo/file_283.jpg; id=AgADAgADq6cxG2nzAAEOaOludQpws8Pm5YENAATrAAGxS5i4B5kyVwACAg; chatId=photo/file_283.jpg; MessageId=234943337;;
+2016-09-08 20:01:23.2806;11;;Trace;FILE PhotoMessage PROCESSED id =AgADAgADq6cxG2nzAAEOaOludQpws8Pm5YENAATrAAGxS5i4B5kyVwACAg;
+2016-09-08 20:01:23.7493;9;;Trace;FILE url=https://api.telegram.org/file/bot232067264:AAGD1hmlGAKFry3awke7ybyGPhHVOJvK1-g/photo/file_283.jpg;
+2016-09-08 20:01:25.3287;9;;Trace;WATSON picturesCurrentDay;4; JSON;animal(type /animals) - 1; mammal(type /animals/mammal) - 1; cat(type /animals/pets/cat) - 0.731059; ;
+2016-09-09 12:50:17.9661;11;;Trace;USER WITH ID 118973363 will be now Registered;
+2016-09-09 12:50:17.9829;11;;Trace;User Username @apomykanov Registered!;
+2016-09-09 12:50:17.9973;11;;Trace;FROM;118973363;NAME;apomykanov;TEXT; /start;
+2016-09-09 12:50:27.9207;10;;Trace;FROM;118973363;NAME;apomykanov;TEXT; /vote;
+2016-09-09 12:50:37.9351;12;;Trace;updateLikes scatid=438; suserid=_118973363;
+2016-09-09 14:30:38.2792;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-09 14:30:39.0087;11;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_m7o0088VXu1qddbvio1_1280.jpg;
+2016-09-09 14:30:39.0087;11;;Trace;URL catapi to Process=http://24.media.tumblr.com/tumblr_m7o0088VXu1qddbvio1_1280.jpg;
+2016-09-09 14:30:39.0087;11;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_m7o0088VXu1qddbvio1_1280.jpg;
+2016-09-09 14:30:40.1906;11;;Trace;WATSON picturesCurrentDay;0; JSON;chair(type /accessories/chair) - 0.689974; ;
+2016-09-09 14:30:49.4654;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:30:49.5090;11;;Trace;getModeration OK! fileid=AgADAgADQqoxG8AQ1Q2ovB1pS3WMRscQcQ0ABJ5UrzicXTGKrM4BAAEC;
+2016-09-09 14:30:56.8900;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_ok_182;
+2016-09-09 14:30:59.3314;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:30:59.3471;11;;Trace;getModeration OK! fileid=AgADAgADQaoxG8AQ1Q0Hj4O_5jRvchHegQ0ABOJjza7RAV2SJVgAAgI;
+2016-09-09 14:31:02.6133;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_ok_179;
+2016-09-09 14:31:04.7734;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:31:04.7890;15;;Trace;getModeration OK! fileid=AgADAgADPqoxG8AQ1Q2W0Tvc1ey48TMPcQ0ABFqJVpZ_Ha1yzNABAAEC;
+2016-09-09 14:31:10.2384;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_178;
+2016-09-09 14:31:12.2710;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:31:12.2868;15;;Trace;getModeration OK! fileid=AgADAgADPqoxG8AQ1Q2W0Tvc1ey48TMPcQ0ABKiVDVsX5wpDytABAAEC;
+2016-09-09 14:31:14.1772;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_177;
+2016-09-09 14:31:15.9116;13;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:31:15.9272;13;;Trace;getModeration OK! fileid=AgADAgADOqoxG8AQ1Q0v-ftt0XLnGPwRcQ0ABHsFo7xfwpswPM0BAAEC;
+2016-09-09 14:31:18.9289;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_ok_176;
+2016-09-09 14:31:20.7570;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:31:20.7727;15;;Trace;getModeration OK! fileid=AgADAgADN6oxG8AQ1Q3Q5gztIoMoaSQNcQ0ABAWzINpf8E-dmcMBAAEC;
+2016-09-09 14:31:23.5893;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_ok_174;
+2016-09-09 14:31:25.0401;16;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:31:25.0557;16;;Trace;getModeration OK! fileid=AgADAgADNqoxG8AQ1Q0JOwH6GdT7hGMscQ0ABElWpIhYkz1jTMIBAAEC;
+2016-09-09 14:31:26.9151;16;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_ok_173;
+2016-09-09 14:31:28.8397;16;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:31:28.8553;16;;Trace;getModeration OK! fileid=AgADAgADXakxG8AQ1Q3-6yVSD0seh0URcQ0ABIaEQOIVX8iHUsUBAAEC;
+2016-09-09 14:31:31.2200;16;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_ok_172;
+2016-09-09 14:31:32.5169;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:31:32.5325;15;;Trace;getModeration OK! fileid=AgADBAADIqgxGyObQQU6XEtONVbVzl2KXhkABHaY-dV5L_BI82oBAAEC;
+2016-09-09 14:31:37.1516;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_171;
+2016-09-09 14:31:39.4105;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:31:39.4261;15;;Trace;getModeration OK! fileid=AgADBAADIagxGyObQQX6JDEljpE_nyulWRkABK1_7IEYU8xqSEsCAAEC;
+2016-09-09 14:31:42.2405;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_ok_170;
+2016-09-09 14:31:43.5477;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:31:43.5634;15;;Trace;getModeration OK! fileid=AgADBAADIKgxGyObQQUL24EMYh0lFdw2WBkABPYZ1SG7X2TVWUECAAEC;
+2016-09-09 14:31:45.9294;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_169;
+2016-09-09 14:31:47.8076;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:31:47.8233;15;;Trace;getModeration OK! fileid=AgADAgAD4acxG3CiugpdGz2Yghfkp13bgQ0ABBp7UffccThYFDcAAgI;
+2016-09-09 14:31:49.8560;18;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_166;
+2016-09-09 14:31:51.4497;18;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:31:51.4654;18;;Trace;getModeration OK! fileid=AgADAgADrccxG37W_ANbbZzLqeuHdbg4cQ0ABA97NBoBErReu7kBAAEC;
+2016-09-09 14:31:54.3404;17;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_165;
+2016-09-09 14:31:56.4049;17;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:31:56.4209;17;;Trace;getModeration OK! fileid=AgADAgAD_agxG13IXwdeNVM1pLLfe6rLgQ0ABUXavEntY3l0SAACAg;
+2016-09-09 14:31:58.8663;17;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_160;
+2016-09-09 14:32:00.9759;17;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:32:00.9915;17;;Trace;getModeration OK! fileid=AgADAgADsacxG50I4Awx8SbhV5gEqks0cQ0ABPKOtZMYYeUHt7kBAAEC;
+2016-09-09 14:32:03.4681;17;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_157;
+2016-09-09 14:32:05.1712;18;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:32:05.1868;18;;Trace;getModeration OK! fileid=AgADAgADm7IxG6htiAO9xx0axhGcb3cncQ0ABF81FkbXB98eCrsBAAEC;
+2016-09-09 14:32:07.0330;18;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_155;
+2016-09-09 14:32:08.4236;18;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:32:08.4393;18;;Trace;getModeration OK! fileid=AgADAgADmrIxG6htiANo-ZJrwMedSZsXcQ0ABNlvnzwl42YOWb0BAAEC;
+2016-09-09 14:32:11.0575;18;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_154;
+2016-09-09 14:32:12.9794;18;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:32:12.9950;18;;Trace;getModeration OK! fileid=AgADAgADmbIxG6htiANkS-WC7THxCp4ycQ0ABNcgSGJZ8xxV7LcBAAEC;
+2016-09-09 14:32:15.9699;18;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_153;
+2016-09-09 14:32:17.6730;18;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:32:17.6939;18;;Trace;getModeration OK! fileid=AgADAgADpMcxG37W_ANOSVBb9tPQXrUXcQ0ABHr6s38ccbjoU7gBAAEC;
+2016-09-09 14:32:20.1867;18;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_152;
+2016-09-09 14:32:21.8310;20;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:32:21.8466;20;;Trace;getModeration OK! fileid=AgADAgADmLIxG6htiAMW7f-Bh4cx17UDcQ0ABL7EsHslU5vAvL0BAAEC;
+2016-09-09 14:32:25.3699;20;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_151;
+2016-09-09 14:32:27.0287;20;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:32:27.0443;20;;Trace;getModeration OK! fileid=AgADAgADl7IxG6htiAMk-36zjuugDmAwcQ0ABCI-bUZZ8-30ibcBAAEC;
+2016-09-09 14:32:29.9859;20;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_150;
+2016-09-09 14:32:31.5999;20;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:32:31.6159;20;;Trace;getModeration OK! fileid=AgADAgADo8cxG37W_AP6QXnI-weW2XDjgQ0ABJXL_w6uC9y3YkUAAgI;
+2016-09-09 14:32:35.1793;20;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_149;
+2016-09-09 14:32:36.6992;19;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:32:36.7148;19;;Trace;getModeration OK! fileid=AgADAgADlrIxG6htiAPkH_sxcGGPBXQJcQ0ABBPqnJM3AwAB3Eu5AQABAg;
+2016-09-09 14:32:42.7729;19;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_ok_148;
+2016-09-09 14:32:44.6705;21;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:32:44.6861;21;;Trace;getModeration OK! fileid=AgADAgADzMQxG8j9KQLXxv2u2_M8D0jGRw0ABJBt6F4aNFeojGQAAgI;
+2016-09-09 14:32:49.7873;21;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_145;
+2016-09-09 14:32:51.2567;21;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:32:51.2723;21;;Trace;getModeration OK! fileid=AgADAgADoscxG37W_AP_yhU-fGt2BhLngQ0ABEzXhjf4Igvl0kYAAgI;
+2016-09-09 14:32:53.3761;19;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_141;
+2016-09-09 14:32:54.5480;19;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:32:54.5636;19;;Trace;getModeration OK! fileid=AgADAgADoccxG37W_ANxchMtOu4XkxzbgQ0ABC_dIYg5Z9ZdhUUAAgI;
+2016-09-09 14:32:58.4542;19;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_139;
+2016-09-09 14:32:59.7042;16;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:32:59.7198;16;;Trace;getModeration OK! fileid=AgADAgADoMcxG37W_AOe5c8izSWdjt_XgQ0ABJekCrxX3APblkUAAgI;
+2016-09-09 14:33:02.7198;16;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_138;
+2016-09-09 14:33:05.0949;16;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:33:05.1108;16;;Trace;getModeration OK! fileid=AgADAgADj7IxG6htiANrMJkNk8fIU67agQ0ABO_AEvA_mvCA60QAAgI;
+2016-09-09 14:33:07.7933;16;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_ok_137;
+2016-09-09 14:33:09.3276;19;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:33:09.3432;19;;Trace;getModeration OK! fileid=AgADAgADn8cxG37W_AMOv6zaCHe6esEXcQ0ABBWMGe31eE2RxrUBAAEC;
+2016-09-09 14:33:11.4076;13;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_136;
+2016-09-09 14:33:12.6732;13;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:33:12.6892;13;;Trace;getModeration OK! fileid=AgADAgADnscxG37W_ANALXciy8c_K3rZgQ0ABNjP5KHAk1lLYkQAAgI;
+2016-09-09 14:33:16.6472;19;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_135;
+2016-09-09 14:33:17.6472;19;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:33:17.6628;19;;Trace;getModeration OK! fileid=AgADAgADnccxG37W_AOhOe6_xofB4T4jcQ0ABGfAD2WHUJdSwboBAAEC;
+2016-09-09 14:33:19.7570;19;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_134;
+2016-09-09 14:33:21.2269;19;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:33:21.2425;19;;Trace;getModeration OK! fileid=AgADAgADiLIxG6htiAPhFd5gqVXNT3IQcQ0ABMW6d0-4pjwx17kBAAEC;
+2016-09-09 14:33:25.6469;19;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_126;
+2016-09-09 14:33:27.8535;13;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:33:27.8571;13;;Trace;getModeration OK! fileid=AgADAgADm8cxG37W_AOPViW_V8VJxeU8cQ0ABGKqktz5d8zLo7kBAAEC;
+2016-09-09 14:33:34.0902;13;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_ok_121;
+2016-09-09 14:33:35.5106;13;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:33:35.5264;13;;Trace;getModeration OK! fileid=AgADAgADmscxG37W_ANhsugGh6C3_iIJcQ0ABI0-DIePbDpbs7YBAAEC;
+2016-09-09 14:33:38.2336;13;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_120;
+2016-09-09 14:33:39.3162;13;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:33:39.3318;13;;Trace;getModeration OK! fileid=AgADAgADmccxG37W_AN4HvJ2uLSisGY0cQ0ABOOX63sKZ-MD6r8BAAEC;
+2016-09-09 14:33:41.5091;13;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_ok_119;
+2016-09-09 14:33:42.7513;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:33:42.7670;11;;Trace;getModeration OK! fileid=AgADAgADmccxG37W_AN4HvJ2uLSisGY0cQ0ABOOX63sKZ-MD6r8BAAEC;
+2016-09-09 14:33:44.5952;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_118;
+2016-09-09 14:33:46.0483;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:33:46.0640;11;;Trace;getModeration OK! fileid=AgADAgAD7KcxGwY-eAMcrWswgrhJ0BcFcQ0ABC9jSKqDhEz18L0BAAEC;
+2016-09-09 14:33:48.5715;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_113;
+2016-09-09 14:33:50.0403;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:33:50.0715;11;;Trace;getModeration OK! fileid=AgADAgAD06cxG96NOwABYZsdS39n_sEIEXENAAR7DlODIzD3PTm8AQABAg;
+2016-09-09 14:33:52.8997;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_112;
+2016-09-09 14:33:54.1230;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:33:54.1389;11;;Trace;getModeration OK! fileid=AgADAgAD66cxGwY-eANBBArJYM7s904xcQ0ABELZpqSiN3aZ57cBAAEC;
+2016-09-09 14:33:57.6574;18;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_110;
+2016-09-09 14:33:58.8293;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:33:58.8449;11;;Trace;getModeration OK! fileid=AgADAgAD6acxGwY-eAPBQe8qhPqQvPkdcQ0ABLS9rkNjUyxa8rQBAAEC;
+2016-09-09 14:34:01.5844;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_108;
+2016-09-09 14:34:02.9594;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:34:02.9754;11;;Trace;getModeration OK! fileid=AgADAgAD6KcxGwY-eANrAXC8frAFVFTcgQ0ABJDVpRuiZhnARUYAAgI;
+2016-09-09 14:34:04.8188;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_107;
+2016-09-09 14:34:06.0092;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:34:06.0248;11;;Trace;getModeration OK! fileid=AgADAgAD4acxG3CiugpdGz2Yghfkp13bgQ0ABBp7UffccThYFDcAAgI;
+2016-09-09 14:34:07.7000;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_104;
+2016-09-09 14:34:08.8875;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:34:08.9031;11;;Trace;getModeration OK! fileid=AgADAgADuagxG4eHPAcQEpp9Hm0VGOrmWSoABGUMID7RnfLH1XMAAgI;
+2016-09-09 14:34:10.6386;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_ok_101;
+2016-09-09 14:34:12.6080;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-09 14:34:12.6236;11;;Trace;getModeration OK! fileid=AgADAgADFKgxG54GCgZZ08iulPTc9V_fgQ0ABDseSJxwQll4WSwAAgI;
+2016-09-09 17:20:32.8756;18;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-09 17:20:33.5943;21;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_mbme8orWy61qhwmnpo1_1280.jpg;
+2016-09-09 17:20:33.5943;21;;Trace;URL catapi to Process=http://24.media.tumblr.com/tumblr_mbme8orWy61qhwmnpo1_1280.jpg;
+2016-09-09 17:20:33.5943;21;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_mbme8orWy61qhwmnpo1_1280.jpg;
+2016-09-09 17:20:34.6881;21;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 0.768525; mammal(type /animals/mammal) - 0.75026; ;
+2016-09-09 17:20:40.8564;18;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-09 17:20:41.5952;21;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_m3x21rzuWm1qze0hyo1_1280.jpg;
+2016-09-09 17:20:41.5952;21;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_m3x21rzuWm1qze0hyo1_1280.jpg;
+2016-09-09 17:20:41.5952;21;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_m3x21rzuWm1qze0hyo1_1280.jpg;
+2016-09-09 17:20:42.3452;21;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 0.999999; mammal(type /animals/mammal) - 0.999998; cat(type /animals/pets/cat) - 0.985226; kitten(type /animals/pets/kitten) - 0.622459; ;
+2016-09-09 17:31:38.6551;1;;Trace;USERS COUNT=57;
+2016-09-09 17:31:43.6675;8;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-09 17:31:43.6695;8;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /help;
+2016-09-09 17:31:46.3908;8;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /whoisyourdaddy;
+2016-09-09 17:37:39.0999;8;;Trace;updateLikes scatid=528; suserid=_263682676;
+2016-09-09 17:52:07.3119;11;;Trace;USER WITH ID 1659610 will be now Registered;
+2016-09-09 17:52:07.3275;11;;Trace;User Username @aprelskaya Registered!;
+2016-09-09 17:52:07.3275;11;;Trace;FROM;1659610;NAME;aprelskaya;TEXT; /start;
+2016-09-09 17:52:18.3068;10;;Trace;FROM;1659610;NAME;aprelskaya;TEXT; /start;
+2016-09-10 21:45:38.8968;8;;Trace;USER WITH ID 32841246 will be now Registered;
+2016-09-10 21:45:38.8968;8;;Trace;User Username @Sporadicamente Registered!;
+2016-09-10 21:45:38.9124;8;;Trace;FROM;32841246;NAME;Sporadicamente;TEXT; /start;
+2016-09-10 21:45:48.6698;10;;Trace;FROM;32841246;NAME;Sporadicamente;TEXT; /vote;
+2016-09-10 21:45:53.2800;10;;Trace;updateLikes scatid=96; suserid=_32841246;
+2016-09-10 21:45:53.4206;9;;Trace;updateLikes scatid=96; suserid=_32841246;
+2016-09-10 21:45:55.6412;9;;Trace;updateLikes scatid=96; suserid=_32841246;
+2016-09-10 21:45:55.6412;14;;Trace;updateLikes scatid=96; suserid=_32841246;
+2016-09-10 21:46:07.2420;14;;Trace;updateLikes scatid=677; suserid=_32841246;
+2016-09-10 21:46:18.1427;14;;Trace;updateLikes scatid=261; suserid=_32841246;
+2016-09-10 21:46:39.2764;15;;Trace;FILE incoming PhotoMessage id =AgADBAAEtzEbHh71AZrJrFTG3rp7OgZpGQAEa9EwTK3UxCFZAAEBAAEC size=181194 mb=0;
+2016-09-10 21:46:39.7920;15;;Trace;Received Photo: FilePath photo/file_285.jpg; caption=photo/file_285.jpg; id=AgADBAAEtzEbHh71AZrJrFTG3rp7OgZpGQAEa9EwTK3UxCFZAAEBAAEC; chatId=photo/file_285.jpg; MessageId=32841246;;
+2016-09-10 21:46:40.0107;15;;Trace;FILE PhotoMessage PROCESSED id =AgADBAAEtzEbHh71AZrJrFTG3rp7OgZpGQAEa9EwTK3UxCFZAAEBAAEC;
+2016-09-10 21:46:40.5124;15;;Trace;FILE url=https://api.telegram.org/file/bot232067264:AAGD1hmlGAKFry3awke7ybyGPhHVOJvK1-g/photo/file_285.jpg;
+2016-09-10 21:46:42.2368;15;;Trace;WATSON picturesCurrentDay;0; JSON;car(type /vehicles/car) - 0.999176; vehicle(type /vehicles) - 0.995504; ;
+2016-09-10 22:32:51.2201;18;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-10 22:32:51.2513;18;;Trace;getModeration OK! fileid=AgADBAAEtzEbHh71AZrJrFTG3rp7OgZpGQAEa9EwTK3UxCFZAAEBAAEC;
+2016-09-10 22:32:54.8811;18;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_shit_184;
+2016-09-10 22:32:58.3591;17;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-10 22:32:58.3747;17;;Trace;getModeration OK! fileid=AgADAgADQ6oxG8AQ1Q04CL4YxAjOsisKcQ0ABODE6pyqe4p5TM8BAAEC;
+2016-09-10 22:33:00.8021;17;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_ok_183;
+2016-09-10 22:33:02.6038;19;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-10 22:33:02.6194;19;;Trace;getModeration OK! fileid=AgADAgADFKgxG54GCgZZ08iulPTc9V_fgQ0ABDseSJxwQll4WSwAAgI;
+2016-09-11 07:40:39.1333;15;;Trace;updateLikes scatid=76; suserid=_263682676;
+2016-09-11 07:40:42.6102;16;;Trace;updateLikes scatid=716; suserid=_263682676;
+2016-09-11 07:41:21.8508;16;;Trace;updateLikes scatid=690; suserid=_263682676;
+2016-09-11 07:41:25.5152;16;;Trace;updateLikes scatid=453; suserid=_263682676;
+2016-09-11 07:41:28.4113;10;;Trace;updateLikes scatid=436; suserid=_263682676;
+2016-09-11 07:41:31.8429;11;;Trace;updateLikes scatid=277; suserid=_263682676;
+2016-09-11 07:41:38.7061;11;;Trace;updateLikes scatid=393; suserid=_263682676;
+2016-09-11 07:41:44.0377;11;;Trace;updateLikes scatid=385; suserid=_263682676;
+2016-09-11 07:41:44.7465;10;;Trace;updateLikes scatid=385; suserid=_263682676;
+2016-09-11 07:42:00.8205;10;;Trace;updateLikes scatid=184; suserid=_263682676;
+2016-09-11 07:42:04.2827;9;;Trace;updateLikes scatid=587; suserid=_263682676;
+2016-09-11 07:42:19.8900;8;;Trace;updateLikes scatid=684; suserid=_263682676;
+2016-09-11 07:42:20.7121;8;;Trace;updateLikes scatid=357; suserid=_263682676;
+2016-09-11 07:42:56.5334;8;;Trace;FROM;263682676;NAME;;TEXT; /vote;
+2016-09-11 07:43:03.2240;8;;Trace;updateLikes scatid=88; suserid=_263682676;
+2016-09-11 07:43:06.8898;13;;Trace;updateLikes scatid=572; suserid=_263682676;
+2016-09-11 07:43:15.1171;13;;Trace;updateLikes scatid=382; suserid=_263682676;
+2016-09-11 07:43:19.0137;17;;Trace;updateLikes scatid=631; suserid=_263682676;
+2016-09-11 07:43:26.4629;17;;Trace;updateLikes scatid=704; suserid=_263682676;
+2016-09-11 07:43:29.6382;17;;Trace;updateLikes scatid=323; suserid=_263682676;
+2016-09-11 07:43:37.5211;17;;Trace;updateLikes scatid=242; suserid=_263682676;
+2016-09-11 07:43:40.5680;18;;Trace;updateLikes scatid=30; suserid=_263682676;
+2016-09-11 11:52:26.3272;18;;Trace;FROM;101320350;NAME;Koroteev;TEXT; http://cs8.pikabu.ru/post_img/2016/09/10/9/1473518989140027844.jpg;
+2016-09-11 11:52:26.3272;18;;Trace;photocount=photo NULL; pinned=False;
+2016-09-11 11:52:26.6579;18;;Trace;URL to Process=http://cs8.pikabu.ru/post_img/2016/09/10/9/1473518989140027844.jpg;
+2016-09-11 11:52:26.6579;18;;Trace;INCOMING url=http://cs8.pikabu.ru/post_img/2016/09/10/9/1473518989140027844.jpg;
+2016-09-11 11:52:29.0223;19;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 1; mammal(type /animals/mammal) - 0.999999; cat(type /animals/pets/cat) - 0.989013; ;
+2016-09-11 12:04:35.4666;22;;Trace;FROM;101320350;NAME;Koroteev;TEXT; http://cs8.pikabu.ru/post_img/2016/09/10/11/1473535694161195680.jpg;
+2016-09-11 12:04:35.4666;22;;Trace;photocount=photo NULL; pinned=False;
+2016-09-11 12:04:35.7641;22;;Trace;URL to Process=http://cs8.pikabu.ru/post_img/2016/09/10/11/1473535694161195680.jpg;
+2016-09-11 12:04:35.7641;22;;Trace;INCOMING url=http://cs8.pikabu.ru/post_img/2016/09/10/11/1473535694161195680.jpg;
+2016-09-11 12:04:37.3110;23;;Trace;WATSON picturesCurrentDay;1; JSON;animal(type /animals) - 0.999998; mammal(type /animals/mammal) - 0.999996; cat(type /animals/pets/cat) - 0.973403; kitten(type /animals/pets/kitten) - 0.574443; ;
+2016-09-11 15:42:21.3941;26;;Trace;FROM;140930355;NAME;Frringe;TEXT; One more;
+2016-09-11 15:42:30.6105;26;;Trace;FROM;140930355;NAME;Frringe;TEXT; /Help;
+2016-09-11 15:42:36.5626;25;;Trace;FROM;140930355;NAME;Frringe;TEXT; /help;
+2016-09-11 15:42:51.6852;25;;Trace;FROM;140930355;NAME;Frringe;TEXT; /start;
+2016-09-11 15:43:07.1936;23;;Trace;FROM;140930355;NAME;Frringe;TEXT; /vote;
+2016-09-11 15:43:10.4765;23;;Trace;updateLikes scatid=220; suserid=_140930355;
+2016-09-11 15:43:12.8046;20;;Trace;updateLikes scatid=312; suserid=_140930355;
+2016-09-11 15:43:15.0099;20;;Trace;updateLikes scatid=120; suserid=_140930355;
+2016-09-11 15:43:20.7004;20;;Trace;updateLikes scatid=362; suserid=_140930355;
+2016-09-11 15:43:23.6560;20;;Trace;updateLikes scatid=705; suserid=_140930355;
+2016-09-11 15:43:26.0947;20;;Trace;updateLikes scatid=485; suserid=_140930355;
+2016-09-11 19:43:53.2238;19;;Trace;USER WITH ID 258318026 will be now Registered;
+2016-09-11 19:43:53.2238;19;;Trace;User Username @ Registered!;
+2016-09-11 19:43:53.2397;19;;Trace;FROM;258318026;NAME;;TEXT; /start;
+2016-09-11 19:43:55.5094;26;;Debug;System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at FCatsBot.BotDb.change_User_Lang(Langs newlang, Int32 userid);
+2016-09-12 12:12:49.0576;21;;Trace;USER WITH ID 194007002 will be now Registered;
+2016-09-12 12:12:49.0576;21;;Trace;User Username @imDaniX Registered!;
+2016-09-12 12:12:49.0889;21;;Trace;FROM;194007002;NAME;imDaniX;TEXT; /help;
+2016-09-12 12:43:42.4400;24;;Trace;FROM;194007002;NAME;imDaniX;TEXT; /instructions;
+2016-09-12 12:44:05.6952;18;;Trace;FROM;194007002;NAME;imDaniX;TEXT; /start;
+2016-09-12 12:44:16.9102;17;;Trace;FROM;194007002;NAME;imDaniX;TEXT; /vote;
+2016-09-12 12:44:24.4197;18;;Trace;updateLikes scatid=215; suserid=_194007002;
+2016-09-12 12:44:28.8970;18;;Trace;updateLikes scatid=356; suserid=_194007002;
+2016-09-12 12:44:32.9971;18;;Trace;updateLikes scatid=476; suserid=_194007002;
+2016-09-12 12:44:35.1924;23;;Trace;updateLikes scatid=532; suserid=_194007002;
+2016-09-12 12:44:38.4652;23;;Trace;updateLikes scatid=236; suserid=_194007002;
+2016-09-12 12:44:41.1323;23;;Trace;updateLikes scatid=34; suserid=_194007002;
+2016-09-12 12:44:44.2644;24;;Trace;updateLikes scatid=114; suserid=_194007002;
+2016-09-12 12:44:46.7825;24;;Trace;updateLikes scatid=252; suserid=_194007002;
+2016-09-12 12:44:49.7626;23;;Trace;updateLikes scatid=292; suserid=_194007002;
+2016-09-12 12:44:52.2378;24;;Trace;updateLikes scatid=145; suserid=_194007002;
+2016-09-12 12:44:57.9722;24;;Trace;updateLikes scatid=653; suserid=_194007002;
+2016-09-12 12:45:01.0620;24;;Trace;updateLikes scatid=703; suserid=_194007002;
+2016-09-12 12:45:03.2652;20;;Trace;updateLikes scatid=519; suserid=_194007002;
+2016-09-12 12:45:05.9591;20;;Trace;updateLikes scatid=218; suserid=_194007002;
+2016-09-12 12:45:09.0387;24;;Trace;updateLikes scatid=323; suserid=_194007002;
+2016-09-12 17:54:55.4431;21;;Trace;USER WITH ID 174525308 will be now Registered;
+2016-09-12 17:54:55.4431;21;;Trace;User Username @soleh2198 Registered!;
+2016-09-12 17:54:55.4587;21;;Trace;FROM;174525308;NAME;soleh2198;TEXT; /start;
+2016-09-12 18:15:24.9330;1;;Trace;USERS COUNT=62;
+2016-09-12 18:15:33.9588;11;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-12 18:15:33.9588;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /help;
+2016-09-12 18:15:45.3370;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /instructions;
+2016-09-12 18:18:19.1385;1;;Trace;USERS COUNT=62;
+2016-09-12 18:18:38.6521;13;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-12 18:18:38.6521;13;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /start;
+2016-09-12 18:18:49.6113;13;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /help;
+2016-09-12 18:18:54.9082;13;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /instructions;
+2016-09-12 18:19:10.0453;12;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /changelanguage_en;
+2016-09-12 18:19:12.0670;14;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /start;
+2016-09-12 18:19:22.9006;14;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-12 18:19:23.6478;14;;Trace;CATSAPI url=http://26.media.tumblr.com/tumblr_m0r6oqF9RK1qbhms5o1_400.jpg;
+2016-09-12 18:19:23.6478;14;;Trace;URL catapi to Process=http://26.media.tumblr.com/tumblr_m0r6oqF9RK1qbhms5o1_400.jpg;
+2016-09-12 18:19:23.6478;14;;Trace;INCOMING url=http://26.media.tumblr.com/tumblr_m0r6oqF9RK1qbhms5o1_400.jpg;
+2016-09-12 18:19:24.7626;14;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 0.999998; mammal(type /animals/mammal) - 0.999994; cat(type /animals/pets/cat) - 0.992608; ;
+2016-09-12 18:19:28.8693;15;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /changelanguage_ru;
+2016-09-12 20:20:07.2141;11;;Trace;Received inline query #7  query= id=435167590923391054 counter=0;
+2016-09-12 20:20:34.6540;12;;Trace;Received inline query #8  query= id=435167590997794044 counter=1;
+2016-09-12 20:20:40.1506;12;;Trace;Received inline query #9  query= id=435167590374126062 counter=2;
+2016-09-13 11:10:58.6173;8;;Trace;USER WITH ID 274600831 will be now Registered;
+2016-09-13 11:10:58.6343;8;;Trace;User Username @Jaco_Opperman Registered!;
+2016-09-13 11:10:58.6343;8;;Trace;FROM;274600831;NAME;Jaco_Opperman;TEXT; /start;
+2016-09-13 11:11:25.1314;9;;Trace;FILE incoming PhotoMessage id =AgADBAADqqcxG38TXhAHjjElgUQMJh7-ZRkABKOR0uSxGDc7ww0BAAEC size=113513 mb=0;
+2016-09-13 11:11:25.6470;9;;Trace;Received Photo: FilePath photo/file_287.jpg; caption=photo/file_287.jpg; id=AgADBAADqqcxG38TXhAHjjElgUQMJh7-ZRkABKOR0uSxGDc7ww0BAAEC; chatId=photo/file_287.jpg; MessageId=274600831;;
+2016-09-13 11:11:25.8658;9;;Trace;FILE PhotoMessage PROCESSED id =AgADBAADqqcxG38TXhAHjjElgUQMJh7-ZRkABKOR0uSxGDc7ww0BAAEC;
+2016-09-13 11:11:26.3501;9;;Trace;FILE url=https://api.telegram.org/file/bot232067264:AAGD1hmlGAKFry3awke7ybyGPhHVOJvK1-g/photo/file_287.jpg;
+2016-09-13 11:11:29.2125;9;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 0.999975; mammal(type /animals/mammal) - 0.999939; dog(type /animals/pets/dog) - 0.880797; puppy(type /animals/pets/puppy) - 0.549834; golden(type /colors/golden) - 0.5; ;
+2016-09-13 11:12:03.1167;14;;Trace;FILE incoming PhotoMessage id =AgADBAADq6cxG38TXhCSoa9XdalB1tFQWxkABPbwSYnhlpxkTpsBAAEC size=9558 mb=0;
+2016-09-13 11:12:03.4950;14;;Trace;Received Photo: FilePath photo/file_289.jpg; caption=photo/file_289.jpg; id=AgADBAADq6cxG38TXhCSoa9XdalB1tFQWxkABPbwSYnhlpxkTpsBAAEC; chatId=photo/file_289.jpg; MessageId=274600831;;
+2016-09-13 11:12:03.6981;15;;Trace;FILE PhotoMessage PROCESSED id =AgADBAADq6cxG38TXhCSoa9XdalB1tFQWxkABPbwSYnhlpxkTpsBAAEC;
+2016-09-13 11:12:04.0418;16;;Trace;FILE url=https://api.telegram.org/file/bot232067264:AAGD1hmlGAKFry3awke7ybyGPhHVOJvK1-g/photo/file_289.jpg;
+2016-09-13 11:12:06.0890;16;;Trace;WATSON picturesCurrentDay;1; JSON;bird(type /animals/bird) - 1; animal(type /animals) - 0.999888; ;
+2016-09-13 11:12:26.4732;16;;Trace;FILE incoming PhotoMessage id =AgADBAADrKcxG38TXhDJAAFccIHssQike2cZAAQNtAoROnoDwYIRAQABAg size=12022 mb=0;
+2016-09-13 11:12:26.8482;16;;Trace;Received Photo: FilePath photo/file_291.jpg; caption=photo/file_291.jpg; id=AgADBAADrKcxG38TXhDJAAFccIHssQike2cZAAQNtAoROnoDwYIRAQABAg; chatId=photo/file_291.jpg; MessageId=274600831;;
+2016-09-13 11:12:27.0682;17;;Trace;FILE PhotoMessage PROCESSED id =AgADBAADrKcxG38TXhDJAAFccIHssQike2cZAAQNtAoROnoDwYIRAQABAg;
+2016-09-13 11:12:27.4276;17;;Trace;FILE url=https://api.telegram.org/file/bot232067264:AAGD1hmlGAKFry3awke7ybyGPhHVOJvK1-g/photo/file_291.jpg;
+2016-09-13 11:12:28.5057;17;;Trace;WATSON picturesCurrentDay;2; JSON;person(type /people) - 0.999877; ;
+2016-09-13 11:12:50.1063;17;;Trace;FILE incoming PhotoMessage id =AgADBAADracxG38TXhBN7bR4boSAlLrxaBkABIy6tUOubRBQ-hIBAAEC size=9635 mb=0;
+2016-09-13 11:12:50.5282;17;;Trace;Received Photo: FilePath photo/file_293.jpg; caption=photo/file_293.jpg; id=AgADBAADracxG38TXhBN7bR4boSAlLrxaBkABIy6tUOubRBQ-hIBAAEC; chatId=photo/file_293.jpg; MessageId=274600831;;
+2016-09-13 11:12:50.7626;17;;Trace;FILE PhotoMessage PROCESSED id =AgADBAADracxG38TXhBN7bR4boSAlLrxaBkABIy6tUOubRBQ-hIBAAEC;
+2016-09-13 11:12:51.0907;17;;Trace;FILE url=https://api.telegram.org/file/bot232067264:AAGD1hmlGAKFry3awke7ybyGPhHVOJvK1-g/photo/file_293.jpg;
+2016-09-13 11:12:52.9721;17;;Trace;WATSON picturesCurrentDay;3; JSON;animal(type /animals) - 0.999999; mammal(type /animals/mammal) - 0.999995; cat(type /animals/pets/cat) - 0.978119; kitten(type /animals/pets/kitten) - 0.524979; ;
+2016-09-13 11:13:31.6644;17;;Trace;FILE incoming PhotoMessage id =AgADBAADrqcxG38TXhDbnfdmFTrrX2icXhkABCOFzp7re_eTHZ4BAAEC size=33967 mb=0;
+2016-09-13 11:13:32.0885;21;;Trace;Received Photo: FilePath photo/file_295.jpg; caption=photo/file_295.jpg; id=AgADBAADrqcxG38TXhDbnfdmFTrrX2icXhkABCOFzp7re_eTHZ4BAAEC; chatId=photo/file_295.jpg; MessageId=274600831;;
+2016-09-13 11:13:32.3385;17;;Trace;FILE PhotoMessage PROCESSED id =AgADBAADrqcxG38TXhDbnfdmFTrrX2icXhkABCOFzp7re_eTHZ4BAAEC;
+2016-09-13 11:13:32.7135;22;;Trace;FILE url=https://api.telegram.org/file/bot232067264:AAGD1hmlGAKFry3awke7ybyGPhHVOJvK1-g/photo/file_295.jpg;
+2016-09-13 11:13:34.0886;22;;Debug;System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at FCatsBot.ModerationResult.AddClassScore(String wclass, Double wscore, String wtype)
+   at FCatsBot.WatsonModeration.<moderateW>d__7.MoveNext();
+2016-09-13 15:02:21.9059;23;;Trace;USER WITH ID 2519761 will be now Registered;
+2016-09-13 15:02:21.9059;23;;Trace;User Username @ Registered!;
+2016-09-13 15:02:21.9216;23;;Trace;FROM;2519761;NAME;;TEXT; /start;
+2016-09-13 15:02:37.7410;17;;Trace;FROM;2519761;NAME;;TEXT; /start;
+2016-09-13 15:02:44.3175;12;;Trace;FROM;2519761;NAME;;TEXT; /vote;
+2016-09-13 15:02:53.7832;12;;Trace;updateLikes scatid=231; suserid=_2519761;
+2016-09-14 13:25:17.9195;20;;Trace;updateLikes scatid=473; suserid=_263682676;
+2016-09-14 13:25:22.7906;12;;Trace;updateLikes scatid=628; suserid=_263682676;
+2016-09-14 13:25:32.9100;12;;Trace;updateLikes scatid=485; suserid=_263682676;
+2016-09-14 13:25:38.0023;12;;Trace;updateLikes scatid=272; suserid=_263682676;
+2016-09-14 13:25:45.0503;11;;Trace;updateLikes scatid=647; suserid=_263682676;
+2016-09-14 13:25:49.6344;11;;Trace;updateLikes scatid=433; suserid=_263682676;
+2016-09-14 13:25:57.4349;11;;Trace;updateLikes scatid=433; suserid=_263682676;
+2016-09-14 13:25:57.8724;17;;Trace;updateLikes scatid=433; suserid=_263682676;
+2016-09-14 13:25:59.0313;16;;Trace;updateLikes scatid=675; suserid=_263682676;
+2016-09-14 13:25:59.2657;17;;Trace;updateLikes scatid=675; suserid=_263682676;
+2016-09-14 21:45:56.4243;18;;Trace;USER WITH ID 36096770 will be now Registered;
+2016-09-14 21:45:56.4243;18;;Trace;User Username @iKi5EEV Registered!;
+2016-09-14 21:45:56.4555;18;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-14 21:45:56.4555;18;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-14 21:53:09.4892;15;;Trace;FROM;36096770;NAME;iKi5EEV;TEXT; /start;
+2016-09-14 21:53:26.7316;14;;Trace;FROM;36096770;NAME;iKi5EEV;TEXT; /vote;
+2016-09-14 21:53:35.5079;14;;Trace;updateLikes scatid=402; suserid=_36096770;
+2016-09-14 21:53:42.5160;9;;Trace;updateLikes scatid=594; suserid=_36096770;
+2016-09-14 21:53:47.0978;9;;Trace;updateLikes scatid=389; suserid=_36096770;
+2016-09-14 21:53:53.1361;9;;Trace;updateLikes scatid=137; suserid=_36096770;
+2016-09-14 21:53:56.5338;10;;Trace;updateLikes scatid=598; suserid=_36096770;
+2016-09-14 21:54:58.0859;19;;Trace;updateLikes scatid=403; suserid=_36096770;
+2016-09-14 21:55:01.9016;19;;Trace;updateLikes scatid=317; suserid=_36096770;
+2016-09-14 21:55:05.3816;22;;Trace;updateLikes scatid=343; suserid=_36096770;
+2016-09-14 21:55:22.0537;22;;Trace;updateLikes scatid=374; suserid=_36096770;
+2016-09-14 21:55:26.9929;22;;Trace;updateLikes scatid=451; suserid=_36096770;
+2016-09-14 21:55:31.8576;24;;Trace;updateLikes scatid=617; suserid=_36096770;
+2016-09-15 21:39:01.8416;25;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /vote;
+2016-09-15 21:39:09.6004;25;;Trace;updateLikes scatid=693; suserid=_101320350;
+2016-09-15 21:39:13.6004;23;;Trace;updateLikes scatid=111; suserid=_101320350;
+2016-09-16 12:11:51.8899;20;;Trace;FROM;101320350;NAME;Koroteev;TEXT; https://pp.vk.me/c637320/v637320110/bb57/6rD_x2Ujy94.jpg;
+2016-09-16 12:11:51.8899;20;;Trace;photocount=photo NULL; pinned=False;
+2016-09-16 12:11:52.2181;20;;Trace;URL to Process=https://pp.vk.me/c637320/v637320110/bb57/6rD_x2Ujy94.jpg;
+2016-09-16 12:11:52.2181;20;;Trace;INCOMING url=https://pp.vk.me/c637320/v637320110/bb57/6rD_x2Ujy94.jpg;
+2016-09-16 12:11:55.6868;19;;Trace;WATSON picturesCurrentDay;0; JSON;person(type /people) - 1; ;
+2016-09-16 12:16:30.1709;23;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-16 12:16:30.8271;23;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_lg904dVwf91qfyzelo1_1280.jpg;
+2016-09-16 12:16:30.8271;23;;Trace;URL catapi to Process=http://24.media.tumblr.com/tumblr_lg904dVwf91qfyzelo1_1280.jpg;
+2016-09-16 12:16:30.8271;23;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_lg904dVwf91qfyzelo1_1280.jpg;
+2016-09-16 12:16:31.6257;23;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 0.999888; mammal(type /animals/mammal) - 0.99959; cat(type /animals/pets/cat) - 0.982014; kitten(type /animals/pets/kitten) - 0.710949; ;
+2016-09-16 19:50:56.8531;13;;Trace;USER WITH ID 42895814 will be now Registered;
+2016-09-16 19:50:56.8531;13;;Trace;User Username @emchik Registered!;
+2016-09-16 19:50:56.8687;13;;Trace;FROM;42895814;NAME;emchik;TEXT; /start;
+2016-09-16 20:04:02.7753;23;;Trace;FROM;58211846;NAME;RedFoxUta;TEXT; /start;
+2016-09-16 20:05:20.5094;21;;Trace;FROM;58211846;NAME;RedFoxUta;TEXT; /vote;
+2016-09-16 20:05:32.2437;21;;Trace;updateLikes scatid=512; suserid=_58211846;
+2016-09-16 20:05:32.8219;15;;Trace;updateLikes scatid=512; suserid=_58211846;
+2016-09-16 20:05:34.8062;15;;Trace;updateLikes scatid=454; suserid=_58211846;
+2016-09-16 20:05:38.8375;15;;Trace;updateLikes scatid=547; suserid=_58211846;
+2016-09-16 20:05:41.4782;15;;Trace;updateLikes scatid=178; suserid=_58211846;
+2016-09-16 20:05:43.6969;19;;Trace;updateLikes scatid=540; suserid=_58211846;
+2016-09-16 20:05:48.5406;15;;Trace;updateLikes scatid=22; suserid=_58211846;
+2016-09-16 20:05:51.8844;19;;Trace;updateLikes scatid=70; suserid=_58211846;
+2016-09-16 20:05:54.2125;19;;Trace;updateLikes scatid=254; suserid=_58211846;
+2016-09-16 20:05:57.1656;19;;Trace;updateLikes scatid=121; suserid=_58211846;
+2016-09-16 20:06:11.8844;19;;Trace;updateLikes scatid=40; suserid=_58211846;
+2016-09-16 20:06:29.1344;23;;Trace;updateLikes scatid=124; suserid=_58211846;
+2016-09-16 20:06:33.7750;23;;Trace;updateLikes scatid=232; suserid=_58211846;
+2016-09-16 20:06:37.6032;23;;Trace;updateLikes scatid=281; suserid=_58211846;
+2016-09-16 20:06:44.8062;23;;Trace;FROM;58211846;NAME;RedFoxUta;TEXT; /whoisyourdaddy;
+2016-09-16 23:57:04.1375;13;;Trace;FILE incoming PhotoMessage id =AgADAgAD96cxGwY-eAMYLnEIL0sF6OANcQ0ABHvoMkZcLitb9PQBAAEC size=244854 mb=0;
+2016-09-16 23:57:04.7955;18;;Trace;Received Photo: FilePath photo/file_296.jpg; caption=photo/file_296.jpg; id=AgADAgAD96cxGwY-eAMYLnEIL0sF6OANcQ0ABHvoMkZcLitb9PQBAAEC; chatId=photo/file_296.jpg; MessageId=58211846;;
+2016-09-16 23:57:05.0309;18;;Trace;FILE PhotoMessage PROCESSED id =AgADAgAD96cxGwY-eAMYLnEIL0sF6OANcQ0ABHvoMkZcLitb9PQBAAEC;
+2016-09-16 23:57:05.6090;18;;Trace;FILE url=https://api.telegram.org/file/bot232067264:AAGD1hmlGAKFry3awke7ybyGPhHVOJvK1-g/photo/file_296.jpg;
+2016-09-16 23:57:08.8469;10;;Trace;WATSON picturesCurrentDay;1; JSON;painting(type /industries/media/painting) - 0.310026; ;
+2016-09-16 23:57:18.0049;10;;Trace;FROM;58211846;NAME;RedFoxUta;TEXT; /catapi;
+2016-09-16 23:57:18.6790;10;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_ljdcbs2FWi1qij6yko1_1280.jpg;
+2016-09-16 23:57:18.6790;10;;Trace;URL catapi to Process=http://24.media.tumblr.com/tumblr_ljdcbs2FWi1qij6yko1_1280.jpg;
+2016-09-16 23:57:18.6790;10;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_ljdcbs2FWi1qij6yko1_1280.jpg;
+2016-09-16 23:57:19.4145;10;;Trace;WATSON picturesCurrentDay;2; JSON;animal(type /animals) - 1; mammal(type /animals/mammal) - 1; cat(type /animals/pets/cat) - 0.930862; ;
+2016-09-17 08:03:53.7086;18;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-17 08:03:53.7555;18;;Trace;getModeration OK! fileid=AgADAgAD96cxGwY-eAMYLnEIL0sF6OANcQ0ABHvoMkZcLitb9PQBAAEC;
+2016-09-17 14:57:02.9426;18;;Trace;USER WITH ID 231837590 will be now Registered;
+2016-09-17 14:57:02.9426;18;;Trace;User Username @ Registered!;
+2016-09-17 14:57:02.9582;18;;Trace;FROM;231837590;NAME;;TEXT; /start;
+2016-09-17 14:57:22.9154;13;;Trace;FROM;231837590;NAME;;TEXT; /vote;
+2016-09-17 14:57:26.6252;13;;Trace;updateLikes scatid=337; suserid=_231837590;
+2016-09-17 14:57:32.4277;13;;Trace;updateLikes scatid=456; suserid=_231837590;
+2016-09-17 14:57:36.1163;13;;Trace;updateLikes scatid=465; suserid=_231837590;
+2016-09-17 14:57:38.7760;13;;Trace;updateLikes scatid=222; suserid=_231837590;
+2016-09-17 14:57:40.7604;17;;Trace;updateLikes scatid=461; suserid=_231837590;
+2016-09-17 14:57:43.5128;13;;Trace;updateLikes scatid=252; suserid=_231837590;
+2016-09-17 14:57:45.6172;17;;Trace;updateLikes scatid=255; suserid=_231837590;
+2016-09-17 14:57:48.2422;17;;Trace;updateLikes scatid=396; suserid=_231837590;
+2016-09-17 14:57:51.1111;17;;Trace;updateLikes scatid=430; suserid=_231837590;
+2016-09-17 14:57:58.0017;17;;Trace;updateLikes scatid=370; suserid=_231837590;
+2016-09-18 13:32:36.9392;11;;Trace;USER WITH ID 618835 will be now Registered;
+2016-09-18 13:32:36.9392;11;;Trace;User Username @SM0R0DIN Registered!;
+2016-09-18 13:32:36.9548;11;;Trace;FROM;618835;NAME;SM0R0DIN;TEXT; /start;
+2016-09-18 13:33:02.9776;16;;Trace;FROM;618835;NAME;SM0R0DIN;TEXT; /start;
+2016-09-18 13:33:10.5265;14;;Trace;FROM;618835;NAME;SM0R0DIN;TEXT; /start;
+2016-09-18 13:33:16.6046;14;;Trace;FROM;618835;NAME;SM0R0DIN;TEXT; /vote;
+2016-09-18 13:33:25.0466;16;;Trace;FROM;618835;NAME;SM0R0DIN;TEXT; /catapi;
+2016-09-18 13:33:25.7086;9;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_lhrxlpElkK1qgwow8o1_400.jpg;
+2016-09-18 13:33:25.7086;9;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_lhrxlpElkK1qgwow8o1_400.jpg;
+2016-09-18 13:33:25.7086;9;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_lhrxlpElkK1qgwow8o1_400.jpg;
+2016-09-18 13:33:26.9273;16;;Trace;WATSON picturesCurrentDay;0; JSON;person(type /people) - 0.845535; ;
+2016-09-18 13:33:40.5454;9;;Trace;FROM;618835;NAME;SM0R0DIN;TEXT; /catapi;
+2016-09-18 13:33:41.1235;23;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_lso3dp9b5N1qe8yooo1_500.jpg;
+2016-09-18 13:33:41.1235;23;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_lso3dp9b5N1qe8yooo1_500.jpg;
+2016-09-18 13:33:41.1235;23;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_lso3dp9b5N1qe8yooo1_500.jpg;
+2016-09-18 13:33:41.8266;23;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 0.450166; cat(type /animals/pets/cat) - 0.401312; macro(type ) - 0.377541; mammal(type /animals/mammal) - 0.354344; ;
+2016-09-18 13:34:52.8708;15;;Trace;FILE incoming PhotoMessage id =AgADAgADCKgxG1NxCQABa7oqawKElgABBBVxDQAE4i5_aR1kPwRgBQIAAQI size=8444 mb=0;
+2016-09-18 13:34:53.2458;16;;Trace;Received Photo: FilePath photo/file_299.jpg; caption=photo/file_299.jpg; id=AgADAgADCKgxG1NxCQABa7oqawKElgABBBVxDQAE4i5_aR1kPwRgBQIAAQI; chatId=photo/file_299.jpg; MessageId=618835;;
+2016-09-18 13:34:53.4803;16;;Trace;FILE PhotoMessage PROCESSED id =AgADAgADCKgxG1NxCQABa7oqawKElgABBBVxDQAE4i5_aR1kPwRgBQIAAQI;
+2016-09-18 13:34:53.8240;16;;Trace;FILE url=https://api.telegram.org/file/bot232067264:AAGD1hmlGAKFry3awke7ybyGPhHVOJvK1-g/photo/file_299.jpg;
+2016-09-18 13:34:55.8002;16;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 1; mammal(type /animals/mammal) - 0.999999; cat(type /animals/pets/cat) - 0.996665; kitten(type /animals/pets/kitten) - 0.524979; ;
+2016-09-18 13:35:28.1238;16;;Trace;FROM;618835;NAME;SM0R0DIN;TEXT; /catapi;
+2016-09-18 13:35:28.7333;22;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_luwcpoHDnz1qbe5pxo1_1280.jpg;
+2016-09-18 13:35:28.7333;22;;Trace;URL catapi to Process=http://24.media.tumblr.com/tumblr_luwcpoHDnz1qbe5pxo1_1280.jpg;
+2016-09-18 13:35:28.7333;22;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_luwcpoHDnz1qbe5pxo1_1280.jpg;
+2016-09-18 13:35:29.7331;21;;Trace;WATSON picturesCurrentDay;1; JSON;animal(type /animals) - 0.999925; mammal(type /animals/mammal) - 0.999833; cat(type /animals/pets/cat) - 0.710949; ;
+2016-09-18 13:35:39.0730;21;;Trace;FROM;618835;NAME;SM0R0DIN;TEXT; /catapi;
+2016-09-18 13:35:39.6824;21;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_ll315ifKEI1qjahcpo1_500.jpg;
+2016-09-18 13:35:39.6824;21;;Trace;URL catapi to Process=http://24.media.tumblr.com/tumblr_ll315ifKEI1qjahcpo1_500.jpg;
+2016-09-18 13:35:39.6824;21;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_ll315ifKEI1qjahcpo1_500.jpg;
+2016-09-18 13:35:41.4324;21;;Trace;WATSON picturesCurrentDay;2; JSON;animal(type /animals) - 0.999939; mammal(type /animals/mammal) - 0.999849; cat(type /animals/pets/cat) - 0.947846; ;
+2016-09-18 13:35:50.0431;22;;Trace;FROM;618835;NAME;SM0R0DIN;TEXT; /catapi;
+2016-09-18 13:35:50.6878;13;;Trace;CATSAPI url=http://30.media.tumblr.com/tumblr_m0r6ayWNCK1qbhms5o1_400.jpg;
+2016-09-18 13:35:50.6878;13;;Trace;URL catapi to Process=http://30.media.tumblr.com/tumblr_m0r6ayWNCK1qbhms5o1_400.jpg;
+2016-09-18 13:35:50.6878;13;;Trace;INCOMING url=http://30.media.tumblr.com/tumblr_m0r6ayWNCK1qbhms5o1_400.jpg;
+2016-09-18 13:35:52.2990;13;;Trace;WATSON picturesCurrentDay;3; JSON;animal(type /animals) - 0.999991; mammal(type /animals/mammal) - 0.999985; cat(type /animals/pets/cat) - 0.970688; ;
+2016-09-19 22:14:57.0759;13;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-19 22:14:57.0916;13;;Trace;getModeration OK! fileid=AgADAgADTKoxG8AQ1Q0hrbSA_Zye6iwjcQ0ABKep_conqql7gQMCAAEC;
+2016-09-19 22:15:00.3298;13;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_ok_193;
+2016-09-19 22:15:02.7048;13;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /moderate;
+2016-09-19 22:15:02.7207;13;;Trace;getModeration OK! fileid=AgADAgADS6oxG8AQ1Q1bQQtiE2U-JUAEcQ0ABH-kYxDjhqBLfwcCAAEC;
+2016-09-19 22:15:05.9243;17;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /mod_ok_192;
+2016-09-20 09:30:42.3517;16;;Trace;FROM;101320350;NAME;Koroteev;TEXT; http://cs9.pikabu.ru/post_img/2016/09/19/6/1474277453149881371.jpg;
+2016-09-20 09:30:42.3517;16;;Trace;photocount=photo NULL; pinned=False;
+2016-09-20 09:30:42.6329;16;;Trace;URL to Process=http://cs9.pikabu.ru/post_img/2016/09/19/6/1474277453149881371.jpg;
+2016-09-20 09:30:42.6329;16;;Trace;INCOMING url=http://cs9.pikabu.ru/post_img/2016/09/19/6/1474277453149881371.jpg;
+2016-09-20 09:30:46.0548;17;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 0.999999; mammal(type /animals/mammal) - 0.999997; cat(type /animals/pets/cat) - 0.952574; ;
+2016-09-20 10:25:26.4693;13;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /vote;
+2016-09-20 10:25:32.3264;13;;Trace;updateLikes scatid=434; suserid=_101320350;
+2016-09-20 10:25:42.1500;11;;Trace;updateLikes scatid=423; suserid=_101320350;
+2016-09-20 10:25:44.4625;11;;Trace;updateLikes scatid=689; suserid=_101320350;
+2016-09-20 10:44:13.9650;1;;Trace;USERS COUNT=68;
+2016-09-20 18:37:49.7937;8;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-20 18:37:49.8093;8;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /vote;
+2016-09-20 18:37:58.6171;8;;Trace;updateLikes scatid=265; suserid=_101320350;
+2016-09-20 19:39:08.2542;12;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /vote;
+2016-09-20 19:39:15.9635;12;;Trace;updateLikes scatid=471; suserid=_101320350;
+2016-09-20 19:39:18.0416;11;;Trace;updateLikes scatid=730; suserid=_101320350;
+2016-09-20 19:39:19.7447;11;;Trace;updateLikes scatid=489; suserid=_101320350;
+2016-09-20 19:39:26.1112;11;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /catapi;
+2016-09-20 19:39:26.8924;11;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_lzu34v8ZMq1r0g0olo1_500.jpg;
+2016-09-20 19:39:26.8924;11;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_lzu34v8ZMq1r0g0olo1_500.jpg;
+2016-09-20 19:39:26.8924;11;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_lzu34v8ZMq1r0g0olo1_500.jpg;
+2016-09-20 19:39:28.9237;11;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 0.999816; mammal(type /animals/mammal) - 0.999665; cat(type /animals/pets/cat) - 0.832018; ;
+2016-09-21 12:15:51.1566;14;;Trace;FROM;101320350;NAME;Koroteev;TEXT; /whoisyourdaddy;
+2016-09-21 14:31:21.1039;14;;Trace;FROM;101320350;NAME;Koroteev;TEXT; http://cs5.pikabu.ru/images/previews_comm/2015-11_4/144784267711218947.jpg;
+2016-09-21 14:31:21.1039;14;;Trace;photocount=photo NULL; pinned=False;
+2016-09-21 14:31:21.4100;14;;Trace;URL to Process=http://cs5.pikabu.ru/images/previews_comm/2015-11_4/144784267711218947.jpg;
+2016-09-21 14:31:21.4100;14;;Trace;INCOMING url=http://cs5.pikabu.ru/images/previews_comm/2015-11_4/144784267711218947.jpg;
+2016-09-21 14:31:29.6626;14;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 0.999988; bird(type /animals/bird) - 0.996982; mammal(type /animals/mammal) - 0.987872; cat(type /animals/pets/cat) - 0.622459; chicken(type /foods/meats/chicken) - 0.5; ;
+2016-09-21 23:45:07.8103;12;;Trace;USER WITH ID 39153281 will be now Registered;
+2016-09-21 23:45:07.8103;12;;Trace;User Username @yukin Registered!;
+2016-09-21 23:45:07.8289;12;;Trace;FROM;39153281;NAME;yukin;TEXT; /start;
+2016-09-21 23:45:10.3103;12;;Trace;FROM;39153281;NAME;yukin;TEXT; /catapi;
+2016-09-21 23:45:11.0447;11;;Trace;CATSAPI url=http://26.media.tumblr.com/tumblr_m0himhTR6T1qjahcpo1_1280.jpg;
+2016-09-21 23:45:11.0447;11;;Trace;URL catapi to Process=http://26.media.tumblr.com/tumblr_m0himhTR6T1qjahcpo1_1280.jpg;
+2016-09-21 23:45:11.0447;11;;Trace;INCOMING url=http://26.media.tumblr.com/tumblr_m0himhTR6T1qjahcpo1_1280.jpg;
+2016-09-21 23:45:12.3260;11;;Trace;WATSON picturesCurrentDay;0; JSON;animal(type /animals) - 1; mammal(type /animals/mammal) - 1; cat(type /animals/pets/cat) - 0.982014; black(type /colors/black) - 0.5; ;
+2016-09-21 23:45:25.6390;11;;Trace;FROM;39153281;NAME;yukin;TEXT; /catapi;
+2016-09-21 23:45:26.2010;11;;Trace;CATSAPI url=http://24.media.tumblr.com/tumblr_lw7r50nnWj1qz85pko1_400.jpg;
+2016-09-21 23:45:26.2010;11;;Trace;URL catapi to Process=http://24.media.tumblr.com/tumblr_lw7r50nnWj1qz85pko1_400.jpg;
+2016-09-21 23:45:26.2010;11;;Trace;INCOMING url=http://24.media.tumblr.com/tumblr_lw7r50nnWj1qz85pko1_400.jpg;
+2016-09-21 23:45:27.0603;11;;Trace;WATSON picturesCurrentDay;1; JSON;animal(type /animals) - 0.999797; mammal(type /animals/mammal) - 0.999389; cat(type /animals/pets/cat) - 0.880797; ;
+2016-09-21 23:45:41.0447;10;;Trace;FROM;39153281;NAME;yukin;TEXT; /catapi;
+2016-09-21 23:45:41.6740;9;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_m4jgcef3aT1qjev1to1_500.jpg;
+2016-09-21 23:45:41.6740;9;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_m4jgcef3aT1qjev1to1_500.jpg;
+2016-09-21 23:45:41.6740;9;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_m4jgcef3aT1qjev1to1_500.jpg;
+2016-09-21 23:45:43.7166;9;;Trace;WATSON picturesCurrentDay;2; JSON;animal(type /animals) - 0.999992; mammal(type /animals/mammal) - 0.999877; cat(type /animals/pets/cat) - 0.890903; ;
+2016-09-21 23:45:54.7322;15;;Trace;FROM;39153281;NAME;yukin;TEXT; /help;
+2016-09-21 23:46:06.5447;15;;Trace;FROM;39153281;NAME;yukin;TEXT; /instructions;
+2016-09-21 23:46:20.0447;15;;Trace;FROM;39153281;NAME;yukin;TEXT; /catapi;
+2016-09-21 23:46:20.7009;15;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_m4on423smR1qzvc2yo1_1280.jpg;
+2016-09-21 23:46:20.7009;15;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_m4on423smR1qzvc2yo1_1280.jpg;
+2016-09-21 23:46:20.7009;15;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_m4on423smR1qzvc2yo1_1280.jpg;
+2016-09-21 23:46:23.2791;15;;Trace;WATSON picturesCurrentDay;3; JSON;animal(type /animals) - 0.999997; mammal(type /animals/mammal) - 0.999994; cat(type /animals/pets/cat) - 0.982014; ;
+2016-09-21 23:46:31.5916;15;;Trace;FROM;39153281;NAME;yukin;TEXT; /catapi;
+2016-09-21 23:46:32.1697;15;;Trace;CATSAPI url=http://27.media.tumblr.com/0b54i4YxspqutfsknUsWxZILo1_1280.jpg;
+2016-09-21 23:46:32.1697;15;;Trace;URL catapi to Process=http://27.media.tumblr.com/0b54i4YxspqutfsknUsWxZILo1_1280.jpg;
+2016-09-21 23:46:32.1697;15;;Trace;INCOMING url=http://27.media.tumblr.com/0b54i4YxspqutfsknUsWxZILo1_1280.jpg;
+2016-09-21 23:46:32.8728;15;;Trace;WATSON picturesCurrentDay;4; JSON;vehicle(type /vehicles) - 0.900249; truck(type /vehicles/truck) - 0.574443; ;
+2016-09-21 23:46:43.8728;15;;Trace;FROM;39153281;NAME;yukin;TEXT; /catapi;
+2016-09-21 23:46:45.0759;18;;Trace;CATSAPI url=http://25.media.tumblr.com/tumblr_lhgxkpsjRF1qgnva2o1_500.jpg;
+2016-09-21 23:46:45.0759;18;;Trace;URL catapi to Process=http://25.media.tumblr.com/tumblr_lhgxkpsjRF1qgnva2o1_500.jpg;
+2016-09-21 23:46:45.0759;18;;Trace;INCOMING url=http://25.media.tumblr.com/tumblr_lhgxkpsjRF1qgnva2o1_500.jpg;
+2016-09-21 23:46:46.9197;18;;Trace;WATSON picturesCurrentDay;4; JSON;cat(type /animals/pets/cat) - 0.549834; fisheye(type ) - 0.524979; ;
+2016-09-21 23:47:10.5759;17;;Trace;FROM;39153281;NAME;yukin;TEXT; /vote;
+2016-09-21 23:47:14.1541;17;;Trace;FROM;39153281;NAME;yukin;TEXT; /vote;
+2016-09-21 23:47:17.3260;8;;Trace;FROM;39153281;NAME;yukin;TEXT; /vote;
+2016-09-21 23:47:22.0135;19;;Trace;FROM;39153281;NAME;yukin;TEXT; /vote;
+2016-09-21 23:47:24.4511;8;;Trace;FROM;39153281;NAME;yukin;TEXT; /vote;
+2016-09-21 23:47:34.3103;19;;Trace;ServiceMessage;Telegram.Bot.Types.Message;
+2016-09-21 23:47:34.3103;19;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-21 23:47:34.3572;19;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-21 23:47:41.0135;19;;Trace;FROM;39153281;NAME;yukin;TEXT; /vote@FCatsBot;
+2016-09-21 23:47:56.2478;15;;Trace;FROM;39153281;NAME;yukin;TEXT; /vote@FCatsBot;
+2016-09-21 23:48:21.7791;15;;Trace;FROM;39153281;NAME;yukin;TEXT; /vote@FCatsBot;
+2016-09-21 23:48:35.7478;15;;Trace;updateLikes scatid=505; suserid=_39153281;
+2016-09-21 23:48:35.9666;10;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-21 23:48:35.9666;10;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-21 23:49:08.7478;18;;Trace;updateLikes scatid=505; suserid=_39153281;
+2016-09-21 23:49:21.9913;16;;Trace;FROM;39153281;NAME;yukin;TEXT; /vote@FCatsBot;
+2016-09-21 23:49:57.3259;16;;Trace;FROM;39153281;NAME;yukin;TEXT; /vote@FCatsBot;
+2016-09-22 00:03:13.1148;15;;Trace;updateLikes scatid=173; suserid=_39153281;
+2016-09-22 00:03:13.4116;15;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:13.4116;15;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:13.6616;15;;Trace;updateLikes scatid=173; suserid=_39153281;
+2016-09-22 00:03:13.8648;9;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:13.8648;9;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:15.7123;9;;Trace;updateLikes scatid=173; suserid=_39153281;
+2016-09-22 00:03:15.9154;9;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:15.9154;9;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:16.4779;9;;Trace;updateLikes scatid=173; suserid=_39153281;
+2016-09-22 00:03:16.6967;9;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:16.6967;9;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:17.5560;9;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:17.5560;9;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:18.3060;9;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:18.3060;9;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:21.9155;9;;Trace;updateLikes scatid=392; suserid=_39153281;
+2016-09-22 00:03:22.1187;20;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:22.1187;20;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:23.3687;20;;Trace;updateLikes scatid=392; suserid=_39153281;
+2016-09-22 00:03:23.5718;20;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:23.5718;20;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:24.8102;20;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:24.8102;20;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:33:30.9540;20;;Trace;updateLikes scatid=727; suserid=_39153281;
+2016-09-22 00:33:31.2665;20;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:33:31.2665;20;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:33:42.5769;20;;Trace;updateLikes scatid=338; suserid=_39153281;
+2016-09-22 00:33:42.7956;12;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:33:42.7956;12;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 09:20:14.3402;15;;Trace;FROM;39153281;NAME;yukin;TEXT; /vote;
+2016-09-22 09:27:41.5504;9;;Trace;updateLikes scatid=562; suserid=_39153281;
+2016-09-22 09:27:41.7922;9;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 09:27:41.7922;9;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 09:27:56.4742;9;;Trace;USER WITH ID 227987192 will be now Registered;
+2016-09-22 09:27:56.4742;9;;Trace;User Username @Selenies Registered!;
+2016-09-22 09:27:56.4898;9;;Trace;FROM;227987192;NAME;Selenies;TEXT; Main coon?;
+2016-09-22 11:53:01.3563;1;;Trace;USERS COUNT=70;

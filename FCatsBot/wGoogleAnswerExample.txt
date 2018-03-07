@@ -1,0 +1,51 @@
+﻿POST https://vision.googleapis.com/v1/images:annotate?key={YOUR_API_KEY}
+{
+ "requests": [
+  {
+   "features": [
+    {
+     "type": "LABEL_DETECTION"
+    }
+   ],
+   "image": {
+    "source": {
+     "gcsImageUri": "gs://fcatsbot.appspot.com/photo_2016-08-31_14-56-04.jpg"
+    }
+   }
+  }
+ ]
+}
+
+{
+ "responses": [
+  {
+   "labelAnnotations": [
+    {
+     "mid": "/m/01yrx",
+     "description": "cat",
+     "score": 0.99042189
+    },
+    {
+     "mid": "/m/04rky",
+     "description": "mammal",
+     "score": 0.94460785
+    },
+    {
+     "mid": "/m/09686",
+     "description": "vertebrate",
+     "score": 0.93156832
+    },
+    {
+     "mid": "/m/035qhg",
+     "description": "fauna",
+     "score": 0.8455444
+    },
+    {
+     "mid": "/m/0307l",
+     "description": "cat like mammal",
+     "score": 0.83151835
+    }
+   ]
+  }
+ ]
+}

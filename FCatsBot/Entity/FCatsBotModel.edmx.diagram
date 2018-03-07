@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="14c503f617c44e8c9175ef16aae1bc87" Name="Diagram1">
+        <EntityTypeShape EntityType="fcatsbotModel.cats" Width="2.625" PointX="3" PointY="0.5" />
+        <EntityTypeShape EntityType="fcatsbotModel.cats_on_moderation" Width="2.625" PointX="6" PointY="0.5" />
+        <EntityTypeShape EntityType="fcatsbotModel.users" Width="2.25" PointX="0.5" PointY="1.25" />
+        <EntityTypeShape EntityType="fcatsbotModel.cats_viewed_by_users" Width="3" PointX="6" PointY="3.25" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="fcatsbotModel.Store" Provider="Npgsql" ProviderManifestToken="9.5.3" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="cats">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int4" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="user_id" Type="int8" Nullable="false" />
+          <Property Name="datetime_added" Type="timestamp" Nullable="false" />
+          <Property Name="file_id" Type="bpchar" MaxLength="100" Nullable="false" />
+          <Property Name="watson_percentage" Type="float4" Nullable="false" />
+          <Property Name="watson_trashhold" Type="float4" Nullable="false" />
+          <Property Name="watson_jsonanswer" Type="bpchar" MaxLength="500" Nullable="false" />
+          <Property Name="approved_manually" Type="bool" Nullable="false" />
+          <Property Name="likes_count" Type="int8" Nullable="false" />
+          <Property Name="dislikes_count" Type="int8" Nullable="false" />
+          <Property Name="views_count" Type="int8" Nullable="false" />
+          <Property Name="from_url" Type="varchar" MaxLength="250" />
+        </EntityType>
+        <EntityType Name="cats_on_moderation">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int4" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="user_id" Type="int8" Nullable="false" />
+          <Property Name="datetime_added" Type="timestamp" Nullable="false" />
+          <Property Name="file_id" Type="bpchar" MaxLength="100" Nullable="false" />
+          <Property Name="watson_percentage" Type="float4" Nullable="false" />
+          <Property Name="watson_trashhold" Type="float4" Nullable="false" />
+          <Property Name="watson_jsonanswer" Type="bpchar" MaxLength="500" Nullable="false" />
+          <Property Name="from_url" Type="varchar" MaxLength="250" />
+        </EntityType>
+        <EntityType Name="cats_viewed_by_users">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int4" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="user_id" Type="int8" Nullable="false" />
+          <Property Name="cat_id" Type="int4" Nullable="false" />
+          <Property Name="file_id" Type="bpchar" MaxLength="100" Nullable="false" />
+          <Property Name="datetime_viewed" Type="timestamp" Nullable="false" />
+          <Property Name="viewed" Type="bool" Nullable="false" />
+          <Property Name="liked" Type="bool" Nullable="false" />
+          <Property Name="disliked" Type="bool" Nullable="false" />
+        </EntityType>
+        <EntityType Name="users">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int4" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="user_id" Type="int8" Nullable="false" />
+          <Property Name="user_name_fix" Type="bpchar" MaxLength="100" Nullable="false" />
+          <Property Name="datetime_user_registered" Type="timestamp" Nullable="false" />
+          <Property Name="user_lang_var" Type="bpchar" MaxLength="100" Nullable="false" />
+          <Property Name="user_first_name" Type="bpchar" MaxLength="100" Nullable="false" />
+          <Property Name="user_last_name" Type="bpchar" MaxLength="100" Nullable="false" />
+          <Property Name="chat_id" Type="int8" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="fcatsbotModelStoreContainer">
+          <EntitySet Name="cats" EntityType="Self.cats" Schema="public" store:Type="Tables" />
+          <EntitySet Name="cats_on_moderation" EntityType="Self.cats_on_moderation" Schema="public" store:Type="Tables" />
+          <EntitySet Name="cats_viewed_by_users" EntityType="Self.cats_viewed_by_users" Schema="public" store:Type="Tables" />
+          <EntitySet Name="users" EntityType="Self.users" Schema="public" store:Type="Tables" />
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="fcatsbotModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="FCatsBotEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="cats" EntityType="fcatsbotModel.cats" />
+          <EntitySet Name="cats_on_moderation" EntityType="fcatsbotModel.cats_on_moderation" />
+          <EntitySet Name="users" EntityType="fcatsbotModel.users" />
+          <EntitySet Name="cats_viewed_by_users" EntityType="fcatsbotModel.cats_viewed_by_users" />
+        </EntityContainer>
+        <EntityType Name="cats">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="user_id" Type="Int64" Nullable="false" />
+          <Property Name="file_id" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="watson_percentage" Type="Single" Nullable="false" />
+          <Property Name="watson_trashhold" Type="Single" Nullable="false" />
+          <Property Name="watson_jsonanswer" Type="String" MaxLength="500" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="approved_manually" Type="Boolean" Nullable="false" />
+          <Property Name="likes_count" Type="Int64" Nullable="false" />
+          <Property Name="dislikes_count" Type="Int64" Nullable="false" />
+          <Property Name="views_count" Type="Int64" Nullable="false" />
+          <Property Name="datetime_added" Type="DateTime" Nullable="false" Precision="6" />
+          <Property Name="from_url" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="cats_on_moderation">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="user_id" Type="Int64" Nullable="false" />
+          <Property Name="file_id" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="watson_percentage" Type="Single" Nullable="false" />
+          <Property Name="watson_trashhold" Type="Single" Nullable="false" />
+          <Property Name="watson_jsonanswer" Type="String" MaxLength="500" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="datetime_added" Type="DateTime" Nullable="false" Precision="6" />
+          <Property Name="from_url" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="users">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="user_id" Type="Int64" Nullable="false" />
+          <Property Name="user_name_fix" Type="String" Nullable="false" MaxLength="100" FixedLength="true" Unicode="true" />
+          <Property Name="datetime_user_registered" Type="DateTime" Nullable="false" Precision="6" />
+          <Property Name="user_lang_var" Type="String" Nullable="false" MaxLength="100" FixedLength="true" Unicode="true" />
+          <Property Name="user_first_name" Type="String" Nullable="false" MaxLength="100" FixedLength="true" Unicode="true" />
+          <Property Name="user_last_name" Type="String" Nullable="false" MaxLength="100" FixedLength="true" Unicode="true" />
+          <Property Name="chat_id" Type="Int64" Nullable="false" />
+        </EntityType>
+        <EntityType Name="cats_viewed_by_users">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="user_id" Type="Int64" Nullable="false" />
+          <Property Name="cat_id" Type="Int32" Nullable="false" />
+          <Property Name="file_id" Type="String" Nullable="false" MaxLength="100" FixedLength="true" Unicode="true" />
+          <Property Name="datetime_viewed" Type="DateTime" Nullable="false" Precision="6" />
+          <Property Name="viewed" Type="Boolean" Nullable="false" />
+          <Property Name="liked" Type="Boolean" Nullable="false" />
+          <Property Name="disliked" Type="Boolean" Nullable="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="fcatsbotModelStoreContainer" CdmEntityContainer="FCatsBotEntities">
+          <EntitySetMapping Name="cats">
+            <EntityTypeMapping TypeName="fcatsbotModel.cats">
+              <MappingFragment StoreEntitySet="cats">
+                <ScalarProperty Name="from_url" ColumnName="from_url" />
+                <ScalarProperty Name="datetime_added" ColumnName="datetime_added" />
+                <ScalarProperty Name="views_count" ColumnName="views_count" />
+                <ScalarProperty Name="dislikes_count" ColumnName="dislikes_count" />
+                <ScalarProperty Name="likes_count" ColumnName="likes_count" />
+                <ScalarProperty Name="approved_manually" ColumnName="approved_manually" />
+                <ScalarProperty Name="watson_jsonanswer" ColumnName="watson_jsonanswer" />
+                <ScalarProperty Name="watson_trashhold" ColumnName="watson_trashhold" />
+                <ScalarProperty Name="watson_percentage" ColumnName="watson_percentage" />
+                <ScalarProperty Name="file_id" ColumnName="file_id" />
+                <ScalarProperty Name="user_id" ColumnName="user_id" />
+                <ScalarProperty Name="id" ColumnName="id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="cats_on_moderation">
+            <EntityTypeMapping TypeName="fcatsbotModel.cats_on_moderation">
+              <MappingFragment StoreEntitySet="cats_on_moderation">
+                <ScalarProperty Name="from_url" ColumnName="from_url" />
+                <ScalarProperty Name="datetime_added" ColumnName="datetime_added" />
+                <ScalarProperty Name="watson_jsonanswer" ColumnName="watson_jsonanswer" />
+                <ScalarProperty Name="watson_trashhold" ColumnName="watson_trashhold" />
+                <ScalarProperty Name="watson_percentage" ColumnName="watson_percentage" />
+                <ScalarProperty Name="file_id" ColumnName="file_id" />
+                <ScalarProperty Name="user_id" ColumnName="user_id" />
+                <ScalarProperty Name="id" ColumnName="id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="users">
+            <EntityTypeMapping TypeName="fcatsbotModel.users">
+              <MappingFragment StoreEntitySet="users">
+                <ScalarProperty Name="chat_id" ColumnName="chat_id" />
+                <ScalarProperty Name="user_last_name" ColumnName="user_last_name" />
+                <ScalarProperty Name="user_first_name" ColumnName="user_first_name" />
+                <ScalarProperty Name="user_lang_var" ColumnName="user_lang_var" />
+                <ScalarProperty Name="datetime_user_registered" ColumnName="datetime_user_registered" />
+                <ScalarProperty Name="user_name_fix" ColumnName="user_name_fix" />
+                <ScalarProperty Name="user_id" ColumnName="user_id" />
+                <ScalarProperty Name="id" ColumnName="id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="cats_viewed_by_users">
+            <EntityTypeMapping TypeName="fcatsbotModel.cats_viewed_by_users">
+              <MappingFragment StoreEntitySet="cats_viewed_by_users">
+                <ScalarProperty Name="disliked" ColumnName="disliked" />
+                <ScalarProperty Name="liked" ColumnName="liked" />
+                <ScalarProperty Name="viewed" ColumnName="viewed" />
+                <ScalarProperty Name="datetime_viewed" ColumnName="datetime_viewed" />
+                <ScalarProperty Name="file_id" ColumnName="file_id" />
+                <ScalarProperty Name="cat_id" ColumnName="cat_id" />
+                <ScalarProperty Name="user_id" ColumnName="user_id" />
+                <ScalarProperty Name="id" ColumnName="id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

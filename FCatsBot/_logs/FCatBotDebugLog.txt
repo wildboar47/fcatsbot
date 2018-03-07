@@ -1,0 +1,500 @@
+2016-09-06 15:06:58.9882;9;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-06 15:07:00.7870;12;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 297;
+2016-09-06 15:07:00.7416;11;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 326;
+2016-09-06 15:07:00.7870;12;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 297;
+2016-09-06 15:07:00.7870;11;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 326;
+2016-09-06 15:07:00.7416;8;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 267;
+2016-09-06 15:07:00.8000;8;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 267;
+2016-09-06 15:07:01.0820;12;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 535;
+2016-09-06 15:07:01.2814;11;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 552;
+2016-09-06 15:07:01.2824;11;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 552;
+2016-09-06 15:07:11.6459;14;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 347;
+2016-09-06 15:07:11.6459;14;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 347;
+2016-09-06 15:07:11.6709;8;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 267;
+2016-09-06 15:07:11.6709;8;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 267;
+2016-09-06 15:07:11.6889;12;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<ProcessVoteCat>d__8.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 701
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 332;
+2016-09-06 15:07:11.6889;12;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<ProcessVoteCat>d__8.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 701
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 332;
+2016-09-06 15:07:11.6889;8;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 267;
+2016-09-06 15:07:11.6889;8;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 267;
+2016-09-06 15:07:11.6889;11;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<ProcessVoteCat>d__8.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 701
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 332;
+2016-09-06 15:07:11.6889;11;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<ProcessVoteCat>d__8.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 701
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 332;
+2016-09-06 15:07:11.9916;16;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 267;
+2016-09-06 15:07:11.9916;16;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 267;
+2016-09-06 15:07:12.0236;16;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 326;
+2016-09-06 15:07:12.0236;16;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 326;
+2016-09-06 15:07:13.9709;13;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WatsonModeration.<moderateWUrl>d__8.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\WatsonModeration.cs:line 239;
+2016-09-06 15:07:14.1659;13;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<ProcessPhotoModeration>d__5.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 128
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 394;
+2016-09-06 15:07:14.1659;13;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<ProcessPhotoModeration>d__5.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 128
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 394;
+2016-09-06 15:07:14.2438;16;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<ProcessPhotoModeration>d__5.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 128
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 394;
+2016-09-06 15:07:14.2438;16;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<ProcessPhotoModeration>d__5.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 128
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 394;
+2016-09-06 15:07:14.5474;16;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 326;
+2016-09-06 15:07:14.5474;16;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 326;
+2016-09-06 15:07:14.5544;15;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bot was blocked by the user
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 267;
+2016-09-06 15:07:14.5544;15;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext() in D:\bot_new_sql\_BOT_CODE\telegram.bot.examples\FCatsBot\BotLogic.cs:line 267;
+2016-09-07 12:53:59.3094;8;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-07 12:54:39.1576;9;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-07 17:57:06.1426;11;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-07 18:00:36.0081;8;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 18:00:36.0238;8;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:04:27.2455;20;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:04:27.2455;20;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:12.6515;11;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.BotDb.change_User_Lang(Langs newlang, Int32 userid);
+2016-09-07 20:13:13.0109;11;;Debug;Telegram.Bot.Exceptions.ApiRequestException: PEER_ID_INVALID
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:13.0109;11;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:23.3546;11;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:23.3546;11;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:29.9394;11;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:29.9394;11;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:32.5668;11;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:32.5668;11;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:35.0275;11;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:35.0275;11;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:39.1609;20;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:39.1609;20;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:41.5543;20;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:41.5543;20;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:46.8729;20;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-07 20:13:46.8729;20;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.3321;21;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.3321;21;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.7377;21;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.7377;21;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.6725;9;;Debug;System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.7907;12;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.7907;12;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.7907;9;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.7907;9;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.8017;12;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.8017;12;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.8017;9;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.8017;9;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.8017;12;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.8017;9;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.8017;9;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.8017;21;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.8017;21;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.9400;21;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:43.9400;21;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:44.0174;9;;Debug;Telegram.Bot.Exceptions.ApiRequestException: Bad Request: chat not found
+   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:38:44.0174;9;;Debug;   at Telegram.Bot.TelegramBotClient.<SendWebRequestAsync>d__139`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-08 11:42:34.0139;14;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-08 13:10:31.2807;11;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-08 15:12:46.6455;11;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-08 18:36:04.6831;9;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-09 17:31:43.6675;8;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-11 19:43:55.5094;26;;Debug;System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at FCatsBot.BotDb.change_User_Lang(Langs newlang, Int32 userid);
+2016-09-12 18:15:33.9588;11;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-12 18:18:38.6521;13;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-13 11:13:34.0886;22;;Debug;System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at FCatsBot.ModerationResult.AddClassScore(String wclass, Double wscore, String wtype)
+   at FCatsBot.WatsonModeration.<moderateW>d__7.MoveNext();
+2016-09-14 21:45:56.4555;18;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-14 21:45:56.4555;18;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-20 18:37:49.7937;8;;Debug;Hello my BOT name is FCatsBot; dir for Files=PostgreSql; ;
+2016-09-21 23:47:34.3103;19;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-21 23:47:34.3572;19;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-21 23:48:35.9666;10;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-21 23:48:35.9666;10;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:13.4116;15;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:13.4116;15;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:13.8648;9;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:13.8648;9;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:15.9154;9;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:15.9154;9;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:16.6967;9;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:16.6967;9;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:17.5560;9;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:17.5560;9;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:18.3060;9;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:18.3060;9;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:22.1187;20;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:22.1187;20;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:23.5718;20;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:23.5718;20;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:24.8102;20;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:03:24.8102;20;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:33:31.2665;20;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:33:31.2665;20;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:33:42.7956;12;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 00:33:42.7956;12;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 09:27:41.7922;9;;Debug;System.NullReferenceException: Object reference not set to an instance of an object.
+   at FCatsBot.WebHookController.<Post>d__7.MoveNext();
+2016-09-22 09:27:41.7922;9;;Debug;   at FCatsBot.WebHookController.<Post>d__7.MoveNext();

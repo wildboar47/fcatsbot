@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- 
+		Microsoft ResX Schema
+
+		Version 1.3
+
+		The primary goals of this format is to allow a simple XML format 
+		that is mostly human readable. The generation and parsing of the 
+		various data types are done through the TypeConverter classes 
+		associated with the data types.
+
+		Example:
+
+		... ado.net/XML headers & schema ...
+		<resheader name="resmimetype">text/microsoft-resx</resheader>
+		<resheader name="version">1.3</resheader>
+		<resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+		<resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+		<data name="Name1">this is my long string</data>
+		<data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+		<data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+			[base64 mime encoded serialized .NET Framework object]
+		</data>
+		<data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+			[base64 mime encoded string representing a byte array form of the .NET Framework object]
+		</data>
+
+		There are any number of "resheader" rows that contain simple 
+		name/value pairs.
+
+		Each data row contains a name, and value. The row also contains a 
+		type or mimetype. Type corresponds to a .NET class that support 
+		text/value conversion through the TypeConverter architecture. 
+		Classes that don't support this are serialized and stored with the 
+		mimetype set.
+
+		The mimetype is used for serialized objects, and tells the 
+		ResXResourceReader how to depersist the object. This is currently not 
+		extensible. For a given mimetype the value must be set accordingly:
+
+		Note - application/x-microsoft.net.object.binary.base64 is the format 
+		that the ResXResourceWriter will generate, however the reader can 
+		read any of the formats listed below.
+
+		mimetype: application/x-microsoft.net.object.binary.base64
+		value   : The object must be serialized with 
+			: System.Serialization.Formatters.Binary.BinaryFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.soap.base64
+		value   : The object must be serialized with 
+			: System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.bytearray.base64
+		value   : The object must be serialized into a byte array 
+			: using a System.ComponentModel.TypeConverter
+			: and then encoded with base64 encoding.
+	-->
+	
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="Author" xml:space="preserve">
+    <value>برنامه نویس و مولف ربات: ایوان کوروتیو، وی با استفاده از شبکه های عصبی #C و PostgreSql و گوگل کلود ویژن این ربات را تهیه کرده است.</value>
+  </data>
+  <data name="BigFile" xml:space="preserve">
+    <value>این فایل بیش از 20MB حجم دارد!</value>
+  </data>
+  <data name="Commands" xml:space="preserve">
+    <value>بسیار خوب، فرمانهای من عبارتند از</value>
+  </data>
+  <data name="ContactMessage" xml:space="preserve">
+    <value>ببخشید، قادر به پردازش پیامهای متنی نمی باشیم.</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>شرح</value>
+  </data>
+  <data name="Echo" xml:space="preserve">
+    <value>پیام تشخیص داده نشد.</value>
+  </data>
+  <data name="ErrorFile" xml:space="preserve">
+    <value>در هنگام پردازش {0} شما خطایی رخ داده است.</value>
+  </data>
+  <data name="InlineText" xml:space="preserve">
+    <value>inline cat</value>
+  </data>
+  <data name="Instructions" xml:space="preserve">
+    <value>{0} را فشرده و یک تصویر حاوی گربه تا حجم 5MB از منوی گالری/دوربین (تصاویر موجود در سیستم) وارد کنید. این تصویر با استفاده از گوگل کلود ویژن متعادل سازی می شود.
+یا اینکه میتوانید از فرمان /catapi استفاده کرده یک تصویر گربه تصادفی از thecatapi.com جهت متعادل سازی ارسال کنید.
+همچنین قادر هستید URL تصویر گربه را به این ربات ارسال نمایید.</value>
+  </data>
+  <data name="LangChanged" xml:space="preserve">
+    <value>تنظیمات بر اساس زبان فارسی انجام شد.</value>
+  </data>
+  <data name="Location" xml:space="preserve">
+    <value>Your location is Lat={0} Long={1}</value>
+  </data>
+  <data name="NoUrls" xml:space="preserve">
+    <value>no urls for you, sorry.</value>
+  </data>
+  <data name="RateBot" xml:space="preserve">
+    <value>به این ربات در https://telegram.me/storebot?start=fcatsbot امتیاز بدهید.</value>
+  </data>
+  <data name="Registered" xml:space="preserve">
+    <value>you are registered user</value>
+  </data>
+  <data name="SavedOnMega" xml:space="preserve">
+    <value>تصویر جهت متعادل سازی با گوگل کلود ویژن ارسال شد.</value>
+  </data>
+  <data name="SavedPhoto" xml:space="preserve">
+    <value>تصویر ذخیره شد.</value>
+  </data>
+  <data name="Start" xml:space="preserve">
+    <value>بسیار خوب، ربات شروع به کار کرد.
+فرمانهای اصلی ربات:
+/vote - رای دادن به گربه ها در پایگاه ما
+/catapi -  اضافه کردن گربه های بیشتر به پایگاه ما از thecatapi.com
+
+عکسهای خود با گربه ها را برای من ارسال کنید!</value>
+  </data>
+  <data name="TypeNotSupported" xml:space="preserve">
+    <value>با عرض پوزش از {0} پشتیبانی نمی شود.</value>
+  </data>
+  <data name="WhyMega" xml:space="preserve">
+    <value>همه گربه ها را دوست دارند!</value>
+  </data>
+  <data name="YouHaveUrls" xml:space="preserve">
+    <value>همه گربه ها را دوست دارند!</value>
+  </data>
+  <data name="YourLatestUrl" xml:space="preserve">
+    <value>تصویر تصادفی گربه:</value>
+  </data>
+  <data name="GetHelp" xml:space="preserve">
+    <value>برای دستیابی به لیست فرمانها یا تغییر زبان /help را وارد کنید.</value>
+  </data>
+  <data name="CatCaption" xml:space="preserve">
+    <value>{0} گربه شماره</value>
+  </data>
+  <data name="NoCatsFound" xml:space="preserve">
+    <value>پیام تشخیص داده نشد.</value>
+  </data>
+  <data name="Views" xml:space="preserve">
+    <value>{0} تعداد بازدید</value>
+  </data>
+  <data name="VoteFalse" xml:space="preserve">
+    <value>شما قبلاً به این گربه رای داده اید.</value>
+  </data>
+  <data name="CannotProcessUrl" xml:space="preserve">
+    <value>با عرض پوزش این URL ها پردازش نمی شود. لطفا تصویر گربه را به صورت جداگانه ارسال فرمایید.</value>
+  </data>
+  <data name="WatsonSay" xml:space="preserve">
+    <value>پیام تشخیص داده نشد.</value>
+  </data>
+  <data name="ModManual" xml:space="preserve">
+    <value>تصویر جهت متعادل سازی دستی ارسال شد. ( به حدنصاب 250 تصویر در روز رسیده ایم.)</value>
+  </data>
+  <data name="VoteMore" xml:space="preserve">
+    <value>پیام تشخیص داده نشد.</value>
+  </data>
+  <data name="WatsonHasCat" xml:space="preserve">
+    <value>گوگل کلود ویژن گربه ای را در این تصویر تشخیص داده است! متعادل سازی موفقیت آمیز بود. آنچه یافت شد</value>
+  </data>
+  <data name="WatsonNoCat" xml:space="preserve">
+    <value>گوگل کلود ویژن هیچ گربه ای در این تصویر تشخیص نداده است! این تصویر جهت متعادل سازی دستی ارسال می شود. آنچه یافت شد:</value>
+  </data>
+  <data name="WatsonEmpty" xml:space="preserve">
+    <value>هیچ چیز. تصویر دیگری با گربه ارسال فرمایید.</value>
+  </data>
+  <data name="LangSelect" xml:space="preserve">
+    <value>زبان فارسی</value>
+  </data>
+  <data name="SpecialThanks" xml:space="preserve">
+    <value>با تشکر ویژه از:</value>
+  </data>
+  <data name="UrlNoJpg" xml:space="preserve">
+    <value>تنها URL های با فایل JPG یا PNG قابل قبول می باشند!</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>بعدی</value>
+  </data>
+  <data name="CatFromApi" xml:space="preserve">
+    <value>گربه از thecatapi.com</value>
+  </data>
+  <data name="CatFromUrl" xml:space="preserve">
+    <value>گربه از URL شما</value>
+  </data>
+  <data name="btnDonate" xml:space="preserve">
+    <value>اهدای کمک مالی</value>
+  </data>
+  <data name="btnHelp" xml:space="preserve">
+    <value>گزینه ها</value>
+  </data>
+  <data name="btnMore" xml:space="preserve">
+    <value>اضافه کردن گربه</value>
+  </data>
+  <data name="btnVote" xml:space="preserve">
+    <value>به تصاویر گربه ها امتیاز بدهید.</value>
+  </data>
+</root>

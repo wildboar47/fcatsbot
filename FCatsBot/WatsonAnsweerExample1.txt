@@ -1,0 +1,109 @@
+﻿https://watson-api-explorer.mybluemix.net/apis/visual-recognition-v3#!/visual-recognition/post_v3_classify
+reg at http://www.ibm.com/developerworks/ru/
+[
+ {
+  "classes": [
+   {
+    "class": "cat",
+    "score": 0.999176,
+    "type_hierarchy": "/animals/pets/cat"
+   },
+   {
+    "class": "animal",
+    "score": 0.991837,
+    "type_hierarchy": "/animals"
+   },
+   {
+    "class": "mammal",
+    "score": 0.978119,
+    "type_hierarchy": "/animals/mammal"
+   }
+  ],
+  "classifier_id": "default",
+  "name": "default"
+ }
+]
+
+[
+ {
+  "classes": [
+   {
+    "class": "animal",
+    "score": 0.999983,
+    "type_hierarchy": "/animals"
+   },
+   {
+    "class": "mammal",
+    "score": 0.999959,
+    "type_hierarchy": "/animals/mammal"
+   },
+   {
+    "class": "cat",
+    "score": 0.817574,
+    "type_hierarchy": "/animals/pets/cat"
+   }
+  ],
+  "classifier_id": "default",
+  "name": "default"
+ }
+]
+
+[
+ {
+  "classes": [
+   {
+    "class": "animal",
+    "score": 0.997762,
+    "type_hierarchy": "/animals"
+   },
+   {
+    "class": "mammal",
+    "score": 0.995504,
+    "type_hierarchy": "/animals/mammal"
+   },
+   {
+    "class": "cat",
+    "score": 0.990987,
+    "type_hierarchy": "/animals/pets/cat"
+   },
+   {
+    "class": "kitten",
+    "score": 0.668188,
+    "type_hierarchy": "/animals/pets/kitten"
+   }
+  ],
+  "classifier_id": "default",
+  "name": "default"
+ }
+]
+
+[
+ {
+  "classes": [
+   {
+    "class": "animal",
+    "score": 0.997527,
+    "type_hierarchy": "/animals"
+   },
+   {
+    "class": "mammal",
+    "score": 0.987872,
+    "type_hierarchy": "/animals/mammal"
+   },
+   {
+    "class": "cat",
+    "score": 0.975873,
+    "type_hierarchy": "/animals/pets/cat"
+   },
+   {
+    "class": "dog",
+    "score": 0.645656,
+    "type_hierarchy": "/animals/pets/dog"
+   }
+  ],
+  "classifier_id": "default",
+  "name": "default"
+ }
+
+TRASH HOLD:
+The score for this image is not above the threshold of 0.5 , based on the training data provided.
